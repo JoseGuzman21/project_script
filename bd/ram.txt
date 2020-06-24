@@ -658,3 +658,113 @@ MEMORIA RAM
               total        used        free      shared  buff/cache   available
 Mem:          981Mi       464Mi        96Mi       0,0Ki       420Mi       369Mi
 Swap:         1,9Gi       0,0Ki       1,9Gi
+Fecha y hora del evento: mié 24 jun 2020 18:47:01 UTC
+MEMORIA RAM
+              total        used        free      shared  buff/cache   available
+Mem:          981Mi       464Mi        96Mi       0,0Ki       420Mi       369Mi
+Swap:         1,9Gi       0,0Ki       1,9Gi
+Fecha y hora del evento: mié 24 jun 2020 18:48:01 UTC
+MEMORIA RAM
+              total        used        free      shared  buff/cache   available
+Mem:          981Mi       464Mi        95Mi       0,0Ki       420Mi       368Mi
+Swap:         1,9Gi       0,0Ki       1,9Gi
+Fecha y hora del evento: mié 24 jun 2020 18:49:02 UTC
+MEMORIA RAM
+              total        used        free      shared  buff/cache   available
+Mem:          981Mi       464Mi        95Mi       0,0Ki       420Mi       369Mi
+Swap:         1,9Gi       0,0Ki       1,9Gi
+Fecha y hora del evento: mié 24 jun 2020 18:50:01 UTC
+MEMORIA RAM
+              total        used        free      shared  buff/cache   available
+Mem:          981Mi       464Mi        95Mi       0,0Ki       420Mi       369Mi
+Swap:         1,9Gi       0,0Ki       1,9Gi
+Fecha y hora del evento: mié 24 jun 2020 18:58:04 UTC
+MEMORIA RAM
+              total        used        free      shared  buff/cache   available
+Mem:          981Mi       469Mi        79Mi       0,0Ki       432Mi       363Mi
+Swap:         1,9Gi       0,0Ki       1,9Gi
+Fecha y hora del evento: mié 24 jun 2020 18:59:01 UTC
+MEMORIA RAM
+              total        used        free      shared  buff/cache   available
+Mem:          981Mi       469Mi        79Mi       0,0Ki       432Mi       363Mi
+Swap:         1,9Gi       0,0Ki       1,9Gi
+Fecha y hora del evento: mié 24 jun 2020 18:59:01 UTC
+MEMORIA RAM
+              total        used        free      shared  buff/cache   available
+Mem:          981Mi       469Mi        79Mi       0,0Ki       432Mi       363Mi
+Swap:         1,9Gi       0,0Ki       1,9Gi
+Fecha y hora del evento: mié 24 jun 2020 19:01:01 UTC
+MEMORIA RAM
+              total        used        free      shared  buff/cache   available
+Mem:          981Mi       469Mi        79Mi       0,0Ki       432Mi       363Mi
+Swap:         1,9Gi       0,0Ki       1,9Gi
+Fecha y hora del evento: mié 24 jun 2020 19:02:01 UTC
+MEMORIA RAM
+              total        used        free      shared  buff/cache   available
+Mem:          981Mi       469Mi        79Mi       0,0Ki       432Mi       363Mi
+Swap:         1,9Gi       0,0Ki       1,9Gi
+Fecha y hora del evento: mié 24 jun 2020 19:02:01 UTC
+MEMORIA RAM
+              total        used        free      shared  buff/cache   available
+Mem:          981Mi       469Mi        79Mi       0,0Ki       432Mi       363Mi
+Swap:         1,9Gi       0,0Ki       1,9Gi
+Fecha y hora del evento: mié 24 jun 2020 19:04:01 UTC
+MEMORIA RAM
+              total        used        free      shared  buff/cache   available
+Mem:          981Mi       469Mi        79Mi       0,0Ki       432Mi       363Mi
+Swap:         1,9Gi       0,0Ki       1,9Gi
+Fecha y hora del evento: mié 24 jun 2020 19:04:01 UTC
+MEMORIA RAM
+              total        used        free      shared  buff/cache   available
+Mem:          981Mi       469Mi        79Mi       0,0Ki       432Mi       363Mi
+Swap:         1,9Gi       0,0Ki       1,9Gi
+Fecha y hora del evento: mié 24 jun 2020 19:06:01 UTC
+MEMORIA RAM
+              total        used        free      shared  buff/cache   available
+Mem:          981Mi       466Mi        82Mi       0,0Ki       432Mi       367Mi
+Swap:         1,9Gi       0,0Ki       1,9Gi
+Fecha y hora del evento: mié 24 jun 2020 19:07:01 UTC
+MEMORIA RAM
+              total        used        free      shared  buff/cache   available
+Mem:          981Mi       466Mi        82Mi       0,0Ki       432Mi       366Mi
+Swap:         1,9Gi       0,0Ki       1,9Gi
+Fecha y hora del evento: mié 24 jun 2020 19:08:01 UTC
+MEMORIA RAM
+              total        used        free      shared  buff/cache   available
+Mem:          981Mi       466Mi        81Mi       0,0Ki       432Mi       366Mi
+Swap:         1,9Gi       0,0Ki       1,9Gi
+Fecha y hora del evento: mié 24 jun 2020 19:09:02 UTC
+MEMORIA RAM
+              total        used        free      shared  buff/cache   available
+Mem:          981Mi       466Mi        82Mi       0,0Ki       432Mi       367Mi
+Swap:         1,9Gi       0,0Ki       1,9Gi
+Fecha y hora del evento: mié 24 jun 2020 19:10:01 UTC
+MEMORIA RAM
+              total        used        free      shared  buff/cache   available
+Mem:          981Mi       466Mi        82Mi       0,0Ki       432Mi       366Mi
+Swap:         1,9Gi       0,0Ki       1,9Gi
+Fecha y hora del evento: mié 24 jun 2020 19:11:01 UTC
+MEMORIA RAM
+              total        used        free      shared  buff/cache   available
+Mem:          981Mi       466Mi        81Mi       0,0Ki       433Mi       366Mi
+Swap:         1,9Gi       0,0Ki       1,9Gi
+Fecha y hora del evento: mié 24 jun 2020 19:12:01 UTC
+MEMORIA RAM
+              total        used        free      shared  buff/cache   available
+Mem:          981Mi       466Mi        81Mi       0,0Ki       433Mi       366Mi
+Swap:         1,9Gi       0,0Ki       1,9Gi
+Fecha y hora del evento: mié 24 jun 2020 19:13:01 UTC
+MEMORIA RAM
+              total        used        free      shared  buff/cache   available
+Mem:          981Mi       466Mi        81Mi       0,0Ki       433Mi       366Mi
+Swap:         1,9Gi       0,0Ki       1,9Gi
+Fecha y hora del evento: mié 24 jun 2020 19:13:01 UTC
+MEMORIA RAM
+              total        used        free      shared  buff/cache   available
+Mem:          981Mi       466Mi        81Mi       0,0Ki       433Mi       366Mi
+Swap:         1,9Gi       0,0Ki       1,9Gi
+Fecha y hora del evento: mié 24 jun 2020 19:15:02 UTC
+MEMORIA RAM
+              total        used        free      shared  buff/cache   available
+Mem:          981Mi       466Mi        81Mi       0,0Ki       433Mi       366Mi
+Swap:         1,9Gi       0,0Ki       1,9Gi

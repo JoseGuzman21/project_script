@@ -1,0 +1,945 @@
+Fecha y hora del evento: Wed 24 Jun 2020 06:12:01 PM UTC
+MEMORIA VIRTUAL DEL SISTEMA
+procs -----------memory---------- ---swap-- -----io---- -system-- ------cpu-----
+ r  b   swpd   free   buff  cache   si   so    bi    bo   in   cs us sy id wa st
+ 0  0      0 2406928  64308 523544    0    0   108    92   46  115  1  1 97  0  0
+Fecha y hora del evento: Wed 24 Jun 2020 06:13:01 PM UTC
+MEMORIA VIRTUAL DEL SISTEMA
+procs -----------memory---------- ---swap-- -----io---- -system-- ------cpu-----
+ r  b   swpd   free   buff  cache   si   so    bi    bo   in   cs us sy id wa st
+ 0  0      0 2406928  64368 523648    0    0   106    91   46  114  1  1 97  0  0
+Fecha y hora del evento: Wed 24 Jun 2020 06:14:01 PM UTC
+MEMORIA VIRTUAL DEL SISTEMA
+procs -----------memory---------- ---swap-- -----io---- -system-- ------cpu-----
+ r  b   swpd   free   buff  cache   si   so    bi    bo   in   cs us sy id wa st
+ 0  0      0 2407024  64392 523652    0    0   105    90   45  113  1  1 97  0  0
+Fecha y hora del evento: Wed 24 Jun 2020 06:15:01 PM UTC
+MEMORIA VIRTUAL DEL SISTEMA
+procs -----------memory---------- ---swap-- -----io---- -system-- ------cpu-----
+ r  b   swpd   free   buff  cache   si   so    bi    bo   in   cs us sy id wa st
+ 0  0      0 2406740  64440 523680    0    0   103    88   45  112  1  1 97  0  0
+Fecha y hora del evento: Wed 24 Jun 2020 06:16:01 PM UTC
+MEMORIA VIRTUAL DEL SISTEMA
+procs -----------memory---------- ---swap-- -----io---- -system-- ------cpu-----
+ r  b   swpd   free   buff  cache   si   so    bi    bo   in   cs us sy id wa st
+ 0  0      0 2405064  64488 523672    0    0   101    87   45  112  1  1 97  0  0
+Fecha y hora del evento: Wed 24 Jun 2020 06:17:01 PM UTC
+MEMORIA VIRTUAL DEL SISTEMA
+procs -----------memory---------- ---swap-- -----io---- -system-- ------cpu-----
+ r  b   swpd   free   buff  cache   si   so    bi    bo   in   cs us sy id wa st
+ 0  0      0 2404528  64648 523684    0    0   100    86   45  111  1  1 98  0  0
+Fecha y hora del evento: Wed 24 Jun 2020 06:18:01 PM UTC
+MEMORIA VIRTUAL DEL SISTEMA
+procs -----------memory---------- ---swap-- -----io---- -system-- ------cpu-----
+ r  b   swpd   free   buff  cache   si   so    bi    bo   in   cs us sy id wa st
+ 0  0      0 2404432  64668 523692    0    0    98    85   44  110  1  1 98  0  0
+Fecha y hora del evento: Wed 24 Jun 2020 06:19:01 PM UTC
+MEMORIA VIRTUAL DEL SISTEMA
+procs -----------memory---------- ---swap-- -----io---- -system-- ------cpu-----
+ r  b   swpd   free   buff  cache   si   so    bi    bo   in   cs us sy id wa st
+ 0  0      0 2406952  64716 523684    0    0    97    84   44  109  1  1 98  0  0
+Fecha y hora del evento: Wed 24 Jun 2020 06:20:01 PM UTC
+MEMORIA VIRTUAL DEL SISTEMA
+procs -----------memory---------- ---swap-- -----io---- -system-- ------cpu-----
+ r  b   swpd   free   buff  cache   si   so    bi    bo   in   cs us sy id wa st
+ 0  0      0 2406764  64752 523828    0    0    96    83   44  108  1  1 98  0  0
+Fecha y hora del evento: Wed 24 Jun 2020 06:21:01 PM UTC
+MEMORIA VIRTUAL DEL SISTEMA
+procs -----------memory---------- ---swap-- -----io---- -system-- ------cpu-----
+ r  b   swpd   free   buff  cache   si   so    bi    bo   in   cs us sy id wa st
+ 0  0      0 2406608  64784 523992    0    0    94    82   43  107  1  1 98  0  0
+Fecha y hora del evento: Wed 24 Jun 2020 06:22:01 PM UTC
+MEMORIA VIRTUAL DEL SISTEMA
+procs -----------memory---------- ---swap-- -----io---- -system-- ------cpu-----
+ r  b   swpd   free   buff  cache   si   so    bi    bo   in   cs us sy id wa st
+ 0  0      0 2408120  64808 523976    0    0    93    81   43  106  1  1 98  0  0
+Fecha y hora del evento: Wed 24 Jun 2020 06:23:01 PM UTC
+MEMORIA VIRTUAL DEL SISTEMA
+procs -----------memory---------- ---swap-- -----io---- -system-- ------cpu-----
+ r  b   swpd   free   buff  cache   si   so    bi    bo   in   cs us sy id wa st
+ 0  0      0 2408152  64824 523976    0    0    92    80   43  105  1  1 98  0  0
+Fecha y hora del evento: Wed 24 Jun 2020 06:24:01 PM UTC
+MEMORIA VIRTUAL DEL SISTEMA
+procs -----------memory---------- ---swap-- -----io---- -system-- ------cpu-----
+ r  b   swpd   free   buff  cache   si   so    bi    bo   in   cs us sy id wa st
+ 0  0      0 2408280  64852 523984    0    0    90    79   42  104  1  1 98  0  0
+Fecha y hora del evento: Wed 24 Jun 2020 06:25:02 PM UTC
+MEMORIA VIRTUAL DEL SISTEMA
+procs -----------memory---------- ---swap-- -----io---- -system-- ------cpu-----
+ r  b   swpd   free   buff  cache   si   so    bi    bo   in   cs us sy id wa st
+ 0  0      0 2407972  64880 523996    0    0    89    78   42  103  1  1 98  0  0
+Fecha y hora del evento: Wed 24 Jun 2020 06:26:01 PM UTC
+MEMORIA VIRTUAL DEL SISTEMA
+procs -----------memory---------- ---swap-- -----io---- -system-- ------cpu-----
+ r  b   swpd   free   buff  cache   si   so    bi    bo   in   cs us sy id wa st
+ 0  0      0 2408216  64896 524000    0    0    88    77   42  102  1  1 98  0  0
+Fecha y hora del evento: Wed 24 Jun 2020 06:27:01 PM UTC
+MEMORIA VIRTUAL DEL SISTEMA
+procs -----------memory---------- ---swap-- -----io---- -system-- ------cpu-----
+ r  b   swpd   free   buff  cache   si   so    bi    bo   in   cs us sy id wa st
+ 0  0      0 2407868  64924 524004    0    0    87    76   42  102  1  1 98  0  0
+Fecha y hora del evento: Wed 24 Jun 2020 06:28:01 PM UTC
+MEMORIA VIRTUAL DEL SISTEMA
+procs -----------memory---------- ---swap-- -----io---- -system-- ------cpu-----
+ r  b   swpd   free   buff  cache   si   so    bi    bo   in   cs us sy id wa st
+ 0  0      0 2407868  64948 524020    0    0    86    76   41  101  1  1 98  0  0
+Fecha y hora del evento: Wed 24 Jun 2020 06:29:01 PM UTC
+MEMORIA VIRTUAL DEL SISTEMA
+procs -----------memory---------- ---swap-- -----io---- -system-- ------cpu-----
+ r  b   swpd   free   buff  cache   si   so    bi    bo   in   cs us sy id wa st
+ 0  0      0 2407584  65004 524016    0    0    85    75   41  100  1  1 98  0  0
+Fecha y hora del evento: Wed 24 Jun 2020 06:30:01 PM UTC
+MEMORIA VIRTUAL DEL SISTEMA
+procs -----------memory---------- ---swap-- -----io---- -system-- ------cpu-----
+ r  b   swpd   free   buff  cache   si   so    bi    bo   in   cs us sy id wa st
+ 0  0      0 2407868  65028 524032    0    0    84    74   41   99  1  1 98  0  0
+Fecha y hora del evento: Wed 24 Jun 2020 06:31:01 PM UTC
+MEMORIA VIRTUAL DEL SISTEMA
+procs -----------memory---------- ---swap-- -----io---- -system-- ------cpu-----
+ r  b   swpd   free   buff  cache   si   so    bi    bo   in   cs us sy id wa st
+ 0  0      0 2407836  65068 524040    0    0    82    73   41   99  1  1 98  0  0
+Fecha y hora del evento: Wed 24 Jun 2020 06:32:02 PM UTC
+MEMORIA VIRTUAL DEL SISTEMA
+procs -----------memory---------- ---swap-- -----io---- -system-- ------cpu-----
+ r  b   swpd   free   buff  cache   si   so    bi    bo   in   cs us sy id wa st
+ 0  0      0 2407552  65088 524048    0    0    81    72   41   98  1  1 98  0  0
+Fecha y hora del evento: Wed 24 Jun 2020 06:33:01 PM UTC
+MEMORIA VIRTUAL DEL SISTEMA
+procs -----------memory---------- ---swap-- -----io---- -system-- ------cpu-----
+ r  b   swpd   free   buff  cache   si   so    bi    bo   in   cs us sy id wa st
+ 0  0      0 2407584  65116 524052    0    0    80    72   40   97  1  1 98  0  0
+Fecha y hora del evento: Wed 24 Jun 2020 06:34:01 PM UTC
+MEMORIA VIRTUAL DEL SISTEMA
+procs -----------memory---------- ---swap-- -----io---- -system-- ------cpu-----
+ r  b   swpd   free   buff  cache   si   so    bi    bo   in   cs us sy id wa st
+ 0  0      0 2407300  65164 524044    0    0    79    71   40   97  1  1 98  0  0
+Fecha y hora del evento: Wed 24 Jun 2020 06:35:01 PM UTC
+MEMORIA VIRTUAL DEL SISTEMA
+procs -----------memory---------- ---swap-- -----io---- -system-- ------cpu-----
+ r  b   swpd   free   buff  cache   si   so    bi    bo   in   cs us sy id wa st
+ 0  0      0 2407488  65192 524064    0    0    79    70   40   96  1  1 98  0  0
+Fecha y hora del evento: Wed 24 Jun 2020 06:36:01 PM UTC
+MEMORIA VIRTUAL DEL SISTEMA
+procs -----------memory---------- ---swap-- -----io---- -system-- ------cpu-----
+ r  b   swpd   free   buff  cache   si   so    bi    bo   in   cs us sy id wa st
+ 0  0      0 2407204  65208 524200    0    0    78    70   40   95  1  1 98  0  0
+Fecha y hora del evento: Wed 24 Jun 2020 06:37:01 PM UTC
+MEMORIA VIRTUAL DEL SISTEMA
+procs -----------memory---------- ---swap-- -----io---- -system-- ------cpu-----
+ r  b   swpd   free   buff  cache   si   so    bi    bo   in   cs us sy id wa st
+ 0  0      0 2407268  65236 524212    0    0    77    69   40   95  1  1 98  0  0
+Fecha y hora del evento: Wed 24 Jun 2020 06:38:02 PM UTC
+MEMORIA VIRTUAL DEL SISTEMA
+procs -----------memory---------- ---swap-- -----io---- -system-- ------cpu-----
+ r  b   swpd   free   buff  cache   si   so    bi    bo   in   cs us sy id wa st
+ 0  0      0 2407268  65260 524224    0    0    76    68   40   94  1  1 98  0  0
+Fecha y hora del evento: Wed 24 Jun 2020 06:39:01 PM UTC
+MEMORIA VIRTUAL DEL SISTEMA
+procs -----------memory---------- ---swap-- -----io---- -system-- ------cpu-----
+ r  b   swpd   free   buff  cache   si   so    bi    bo   in   cs us sy id wa st
+ 0  0      0 2407236  65284 524228    0    0    75    68   39   94  1  1 98  0  0
+Fecha y hora del evento: Wed 24 Jun 2020 06:40:02 PM UTC
+MEMORIA VIRTUAL DEL SISTEMA
+procs -----------memory---------- ---swap-- -----io---- -system-- ------cpu-----
+ r  b   swpd   free   buff  cache   si   so    bi    bo   in   cs us sy id wa st
+ 0  0      0 2407236  65336 524224    0    0    74    67   39   93  1  1 98  0  0
+Fecha y hora del evento: Wed 24 Jun 2020 06:41:01 PM UTC
+MEMORIA VIRTUAL DEL SISTEMA
+procs -----------memory---------- ---swap-- -----io---- -system-- ------cpu-----
+ r  b   swpd   free   buff  cache   si   so    bi    bo   in   cs us sy id wa st
+ 0  0      0 2407236  65360 524236    0    0    73    66   39   93  1  1 98  0  0
+Fecha y hora del evento: Wed 24 Jun 2020 06:42:01 PM UTC
+MEMORIA VIRTUAL DEL SISTEMA
+procs -----------memory---------- ---swap-- -----io---- -system-- ------cpu-----
+ r  b   swpd   free   buff  cache   si   so    bi    bo   in   cs us sy id wa st
+ 0  0      0 2407048  65380 524244    0    0    73    66   39   92  1  1 98  0  0
+Fecha y hora del evento: Wed 24 Jun 2020 06:43:02 PM UTC
+MEMORIA VIRTUAL DEL SISTEMA
+procs -----------memory---------- ---swap-- -----io---- -system-- ------cpu-----
+ r  b   swpd   free   buff  cache   si   so    bi    bo   in   cs us sy id wa st
+ 0  0      0 2409048  65404 524244    0    0    72    65   39   92  1  1 98  0  0
+Fecha y hora del evento: Wed 24 Jun 2020 06:44:01 PM UTC
+MEMORIA VIRTUAL DEL SISTEMA
+procs -----------memory---------- ---swap-- -----io---- -system-- ------cpu-----
+ r  b   swpd   free   buff  cache   si   so    bi    bo   in   cs us sy id wa st
+ 0  0      0 2408860  65428 524248    0    0    71    65   39   91  1  1 98  0  0
+Fecha y hora del evento: Wed 24 Jun 2020 06:45:01 PM UTC
+MEMORIA VIRTUAL DEL SISTEMA
+procs -----------memory---------- ---swap-- -----io---- -system-- ------cpu-----
+ r  b   swpd   free   buff  cache   si   so    bi    bo   in   cs us sy id wa st
+ 0  0      0 2408860  65500 524244    0    0    70    64   39   91  1  1 98  0  0
+Fecha y hora del evento: Wed 24 Jun 2020 06:46:01 PM UTC
+MEMORIA VIRTUAL DEL SISTEMA
+procs -----------memory---------- ---swap-- -----io---- -system-- ------cpu-----
+ r  b   swpd   free   buff  cache   si   so    bi    bo   in   cs us sy id wa st
+ 0  0      0 2406860  65536 524272    0    0    69    64   39   90  1  1 98  0  0
+Fecha y hora del evento: Wed 24 Jun 2020 06:47:01 PM UTC
+MEMORIA VIRTUAL DEL SISTEMA
+procs -----------memory---------- ---swap-- -----io---- -system-- ------cpu-----
+ r  b   swpd   free   buff  cache   si   so    bi    bo   in   cs us sy id wa st
+ 0  0      0 2408860  65560 524276    0    0    69    63   38   90  1  1 98  0  0
+Fecha y hora del evento: Wed 24 Jun 2020 06:48:01 PM UTC
+MEMORIA VIRTUAL DEL SISTEMA
+procs -----------memory---------- ---swap-- -----io---- -system-- ------cpu-----
+ r  b   swpd   free   buff  cache   si   so    bi    bo   in   cs us sy id wa st
+ 0  0      0 2406544  65584 524292    0    0    68    63   38   90  1  1 98  0  0
+Fecha y hora del evento: Wed 24 Jun 2020 06:49:01 PM UTC
+MEMORIA VIRTUAL DEL SISTEMA
+procs -----------memory---------- ---swap-- -----io---- -system-- ------cpu-----
+ r  b   swpd   free   buff  cache   si   so    bi    bo   in   cs us sy id wa st
+ 0  0      0 2408544  65612 524292    0    0    67    62   38   89  1  1 98  0  0
+Fecha y hora del evento: Wed 24 Jun 2020 06:50:01 PM UTC
+MEMORIA VIRTUAL DEL SISTEMA
+procs -----------memory---------- ---swap-- -----io---- -system-- ------cpu-----
+ r  b   swpd   free   buff  cache   si   so    bi    bo   in   cs us sy id wa st
+ 0  0      0 2407684  65660 524452    0    0    67    62   38   89  1  1 98  0  0
+Fecha y hora del evento: Wed 24 Jun 2020 06:51:01 PM UTC
+MEMORIA VIRTUAL DEL SISTEMA
+procs -----------memory---------- ---swap-- -----io---- -system-- ------cpu-----
+ r  b   swpd   free   buff  cache   si   so    bi    bo   in   cs us sy id wa st
+ 0  0      0 2407596  65708 524436    0    0    66    61   38   88  1  1 98  0  0
+Fecha y hora del evento: Wed 24 Jun 2020 06:52:01 PM UTC
+MEMORIA VIRTUAL DEL SISTEMA
+procs -----------memory---------- ---swap-- -----io---- -system-- ------cpu-----
+ r  b   swpd   free   buff  cache   si   so    bi    bo   in   cs us sy id wa st
+ 0  0      0 2407524  65724 524444    0    0    65    61   38   88  1  1 98  0  0
+Fecha y hora del evento: Wed 24 Jun 2020 06:53:01 PM UTC
+MEMORIA VIRTUAL DEL SISTEMA
+procs -----------memory---------- ---swap-- -----io---- -system-- ------cpu-----
+ r  b   swpd   free   buff  cache   si   so    bi    bo   in   cs us sy id wa st
+ 0  0      0 2407460  65744 524444    0    0    65    60   38   88  1  1 98  0  0
+Fecha y hora del evento: Wed 24 Jun 2020 06:54:01 PM UTC
+MEMORIA VIRTUAL DEL SISTEMA
+procs -----------memory---------- ---swap-- -----io---- -system-- ------cpu-----
+ r  b   swpd   free   buff  cache   si   so    bi    bo   in   cs us sy id wa st
+ 0  0      0 2406980  65756 524576    0    0    64    60   38   87  1  1 98  0  0
+Fecha y hora del evento: Wed 24 Jun 2020 06:55:01 PM UTC
+MEMORIA VIRTUAL DEL SISTEMA
+procs -----------memory---------- ---swap-- -----io---- -system-- ------cpu-----
+ r  b   swpd   free   buff  cache   si   so    bi    bo   in   cs us sy id wa st
+ 0  0      0 2407072  65780 524596    0    0    63    59   38   87  1  1 98  0  0
+Fecha y hora del evento: Wed 24 Jun 2020 06:56:02 PM UTC
+MEMORIA VIRTUAL DEL SISTEMA
+procs -----------memory---------- ---swap-- -----io---- -system-- ------cpu-----
+ r  b   swpd   free   buff  cache   si   so    bi    bo   in   cs us sy id wa st
+ 0  0      0 2407232  65824 524600    0    0    63    59   38   87  1  1 98  0  0
+Fecha y hora del evento: Wed 24 Jun 2020 06:57:01 PM UTC
+MEMORIA VIRTUAL DEL SISTEMA
+procs -----------memory---------- ---swap-- -----io---- -system-- ------cpu-----
+ r  b   swpd   free   buff  cache   si   so    bi    bo   in   cs us sy id wa st
+ 0  0      0 2407168  65844 524608    0    0    62    58   38   87  1  1 98  0  0
+Fecha y hora del evento: Wed 24 Jun 2020 06:58:01 PM UTC
+MEMORIA VIRTUAL DEL SISTEMA
+procs -----------memory---------- ---swap-- -----io---- -system-- ------cpu-----
+ r  b   swpd   free   buff  cache   si   so    bi    bo   in   cs us sy id wa st
+ 0  0      0 2406440  65864 524616    0    0    62    58   38   87  1  1 98  0  0
+Fecha y hora del evento: Wed 24 Jun 2020 06:59:01 PM UTC
+MEMORIA VIRTUAL DEL SISTEMA
+procs -----------memory---------- ---swap-- -----io---- -system-- ------cpu-----
+ r  b   swpd   free   buff  cache   si   so    bi    bo   in   cs us sy id wa st
+ 0  0      0 2406660  65876 524628    0    0    61    57   38   87  1  1 98  0  0
+Fecha y hora del evento: Wed 24 Jun 2020 07:00:01 PM UTC
+MEMORIA VIRTUAL DEL SISTEMA
+procs -----------memory---------- ---swap-- -----io---- -system-- ------cpu-----
+ r  b   swpd   free   buff  cache   si   so    bi    bo   in   cs us sy id wa st
+ 0  0      0 2406312  65916 524628    0    0    61    57   38   87  1  1 98  0  0
+Fecha y hora del evento: Wed 24 Jun 2020 07:01:01 PM UTC
+MEMORIA VIRTUAL DEL SISTEMA
+procs -----------memory---------- ---swap-- -----io---- -system-- ------cpu-----
+ r  b   swpd   free   buff  cache   si   so    bi    bo   in   cs us sy id wa st
+ 0  0      0 2406376  65968 524636    0    0    60    57   38   86  1  1 98  0  0
+Fecha y hora del evento: Wed 24 Jun 2020 07:02:01 PM UTC
+MEMORIA VIRTUAL DEL SISTEMA
+procs -----------memory---------- ---swap-- -----io---- -system-- ------cpu-----
+ r  b   swpd   free   buff  cache   si   so    bi    bo   in   cs us sy id wa st
+ 0  0      0 2406596  65988 524656    0    0    59    56   38   86  1  1 98  0  0
+Fecha y hora del evento: Wed 24 Jun 2020 07:03:01 PM UTC
+MEMORIA VIRTUAL DEL SISTEMA
+procs -----------memory---------- ---swap-- -----io---- -system-- ------cpu-----
+ r  b   swpd   free   buff  cache   si   so    bi    bo   in   cs us sy id wa st
+ 0  0      0 2406344  66016 524660    0    0    59    56   38   86  1  1 98  0  0
+Fecha y hora del evento: Wed 24 Jun 2020 07:04:01 PM UTC
+MEMORIA VIRTUAL DEL SISTEMA
+procs -----------memory---------- ---swap-- -----io---- -system-- ------cpu-----
+ r  b   swpd   free   buff  cache   si   so    bi    bo   in   cs us sy id wa st
+ 0  0      0 2406500  66040 524664    0    0    58    55   38   86  1  1 98  0  0
+Fecha y hora del evento: Wed 24 Jun 2020 07:05:01 PM UTC
+MEMORIA VIRTUAL DEL SISTEMA
+procs -----------memory---------- ---swap-- -----io---- -system-- ------cpu-----
+ r  b   swpd   free   buff  cache   si   so    bi    bo   in   cs us sy id wa st
+ 0  0      0 2406248  66072 524672    0    0    58    55   38   86  1  1 98  0  0
+Fecha y hora del evento: Wed 24 Jun 2020 07:06:01 PM UTC
+MEMORIA VIRTUAL DEL SISTEMA
+procs -----------memory---------- ---swap-- -----io---- -system-- ------cpu-----
+ r  b   swpd   free   buff  cache   si   so    bi    bo   in   cs us sy id wa st
+ 0  0      0 2405808  66124 524816    0    0    57    55   38   85  1  1 98  0  0
+Fecha y hora del evento: Wed 24 Jun 2020 07:07:01 PM UTC
+MEMORIA VIRTUAL DEL SISTEMA
+procs -----------memory---------- ---swap-- -----io---- -system-- ------cpu-----
+ r  b   swpd   free   buff  cache   si   so    bi    bo   in   cs us sy id wa st
+ 0  0      0 2405768  66140 524808    0    0    57    54   38   86  1  1 98  0  0
+Fecha y hora del evento: Wed 24 Jun 2020 07:08:01 PM UTC
+MEMORIA VIRTUAL DEL SISTEMA
+procs -----------memory---------- ---swap-- -----io---- -system-- ------cpu-----
+ r  b   swpd   free   buff  cache   si   so    bi    bo   in   cs us sy id wa st
+ 0  0      0 2406084  66160 524956    0    0    56    54   38   85  1  1 98  0  0
+Fecha y hora del evento: Wed 24 Jun 2020 07:09:02 PM UTC
+MEMORIA VIRTUAL DEL SISTEMA
+procs -----------memory---------- ---swap-- -----io---- -system-- ------cpu-----
+ r  b   swpd   free   buff  cache   si   so    bi    bo   in   cs us sy id wa st
+ 0  0      0 2405640  66184 524952    0    0    56    54   38   85  1  1 98  0  0
+Fecha y hora del evento: Wed 24 Jun 2020 07:10:01 PM UTC
+MEMORIA VIRTUAL DEL SISTEMA
+procs -----------memory---------- ---swap-- -----io---- -system-- ------cpu-----
+ r  b   swpd   free   buff  cache   si   so    bi    bo   in   cs us sy id wa st
+ 0  0      0 2405640  66212 524956    0    0    56    53   38   85  1  1 98  0  0
+Fecha y hora del evento: Wed 24 Jun 2020 07:11:01 PM UTC
+MEMORIA VIRTUAL DEL SISTEMA
+procs -----------memory---------- ---swap-- -----io---- -system-- ------cpu-----
+ r  b   swpd   free   buff  cache   si   so    bi    bo   in   cs us sy id wa st
+ 0  0      0 2405736  66256 524952    0    0    55    53   38   85  1  1 98  0  0
+Fecha y hora del evento: Wed 24 Jun 2020 07:12:01 PM UTC
+MEMORIA VIRTUAL DEL SISTEMA
+procs -----------memory---------- ---swap-- -----io---- -system-- ------cpu-----
+ r  b   swpd   free   buff  cache   si   so    bi    bo   in   cs us sy id wa st
+ 0  0      0 2405736  66284 524972    0    0    55    53   38   84  1  1 98  0  0
+Fecha y hora del evento: Wed 24 Jun 2020 07:13:01 PM UTC
+MEMORIA VIRTUAL DEL SISTEMA
+procs -----------memory---------- ---swap-- -----io---- -system-- ------cpu-----
+ r  b   swpd   free   buff  cache   si   so    bi    bo   in   cs us sy id wa st
+ 0  0      0 2405580  66312 524980    0    0    54    52   38   84  1  1 98  0  0
+Fecha y hora del evento: Wed 24 Jun 2020 06:12:01 PM UTC
+MEMORIA VIRTUAL DEL SISTEMA
+procs -----------memory---------- ---swap-- -----io---- -system-- ------cpu-----
+ r  b   swpd   free   buff  cache   si   so    bi    bo   in   cs us sy id wa st
+ 0  0      0 2406928  64308 523544    0    0   108    92   46  115  1  1 97  0  0
+Fecha y hora del evento: Wed 24 Jun 2020 06:13:01 PM UTC
+MEMORIA VIRTUAL DEL SISTEMA
+procs -----------memory---------- ---swap-- -----io---- -system-- ------cpu-----
+ r  b   swpd   free   buff  cache   si   so    bi    bo   in   cs us sy id wa st
+ 0  0      0 2406928  64368 523648    0    0   106    91   46  114  1  1 97  0  0
+Fecha y hora del evento: Wed 24 Jun 2020 06:14:01 PM UTC
+MEMORIA VIRTUAL DEL SISTEMA
+procs -----------memory---------- ---swap-- -----io---- -system-- ------cpu-----
+ r  b   swpd   free   buff  cache   si   so    bi    bo   in   cs us sy id wa st
+ 0  0      0 2407024  64392 523652    0    0   105    90   45  113  1  1 97  0  0
+Fecha y hora del evento: Wed 24 Jun 2020 06:15:01 PM UTC
+MEMORIA VIRTUAL DEL SISTEMA
+procs -----------memory---------- ---swap-- -----io---- -system-- ------cpu-----
+ r  b   swpd   free   buff  cache   si   so    bi    bo   in   cs us sy id wa st
+ 0  0      0 2406740  64440 523680    0    0   103    88   45  112  1  1 97  0  0
+Fecha y hora del evento: Wed 24 Jun 2020 06:16:01 PM UTC
+MEMORIA VIRTUAL DEL SISTEMA
+procs -----------memory---------- ---swap-- -----io---- -system-- ------cpu-----
+ r  b   swpd   free   buff  cache   si   so    bi    bo   in   cs us sy id wa st
+ 0  0      0 2405064  64488 523672    0    0   101    87   45  112  1  1 97  0  0
+Fecha y hora del evento: Wed 24 Jun 2020 06:17:01 PM UTC
+MEMORIA VIRTUAL DEL SISTEMA
+procs -----------memory---------- ---swap-- -----io---- -system-- ------cpu-----
+ r  b   swpd   free   buff  cache   si   so    bi    bo   in   cs us sy id wa st
+ 0  0      0 2404528  64648 523684    0    0   100    86   45  111  1  1 98  0  0
+Fecha y hora del evento: Wed 24 Jun 2020 06:18:01 PM UTC
+MEMORIA VIRTUAL DEL SISTEMA
+procs -----------memory---------- ---swap-- -----io---- -system-- ------cpu-----
+ r  b   swpd   free   buff  cache   si   so    bi    bo   in   cs us sy id wa st
+ 0  0      0 2404432  64668 523692    0    0    98    85   44  110  1  1 98  0  0
+Fecha y hora del evento: Wed 24 Jun 2020 06:19:01 PM UTC
+MEMORIA VIRTUAL DEL SISTEMA
+procs -----------memory---------- ---swap-- -----io---- -system-- ------cpu-----
+ r  b   swpd   free   buff  cache   si   so    bi    bo   in   cs us sy id wa st
+ 0  0      0 2406952  64716 523684    0    0    97    84   44  109  1  1 98  0  0
+Fecha y hora del evento: Wed 24 Jun 2020 06:20:01 PM UTC
+MEMORIA VIRTUAL DEL SISTEMA
+procs -----------memory---------- ---swap-- -----io---- -system-- ------cpu-----
+ r  b   swpd   free   buff  cache   si   so    bi    bo   in   cs us sy id wa st
+ 0  0      0 2406764  64752 523828    0    0    96    83   44  108  1  1 98  0  0
+Fecha y hora del evento: Wed 24 Jun 2020 06:21:01 PM UTC
+MEMORIA VIRTUAL DEL SISTEMA
+procs -----------memory---------- ---swap-- -----io---- -system-- ------cpu-----
+ r  b   swpd   free   buff  cache   si   so    bi    bo   in   cs us sy id wa st
+ 0  0      0 2406608  64784 523992    0    0    94    82   43  107  1  1 98  0  0
+Fecha y hora del evento: Wed 24 Jun 2020 06:22:01 PM UTC
+MEMORIA VIRTUAL DEL SISTEMA
+procs -----------memory---------- ---swap-- -----io---- -system-- ------cpu-----
+ r  b   swpd   free   buff  cache   si   so    bi    bo   in   cs us sy id wa st
+ 0  0      0 2408120  64808 523976    0    0    93    81   43  106  1  1 98  0  0
+Fecha y hora del evento: Wed 24 Jun 2020 06:23:01 PM UTC
+MEMORIA VIRTUAL DEL SISTEMA
+procs -----------memory---------- ---swap-- -----io---- -system-- ------cpu-----
+ r  b   swpd   free   buff  cache   si   so    bi    bo   in   cs us sy id wa st
+ 0  0      0 2408152  64824 523976    0    0    92    80   43  105  1  1 98  0  0
+Fecha y hora del evento: Wed 24 Jun 2020 06:24:01 PM UTC
+MEMORIA VIRTUAL DEL SISTEMA
+procs -----------memory---------- ---swap-- -----io---- -system-- ------cpu-----
+ r  b   swpd   free   buff  cache   si   so    bi    bo   in   cs us sy id wa st
+ 0  0      0 2408280  64852 523984    0    0    90    79   42  104  1  1 98  0  0
+Fecha y hora del evento: Wed 24 Jun 2020 06:25:02 PM UTC
+MEMORIA VIRTUAL DEL SISTEMA
+procs -----------memory---------- ---swap-- -----io---- -system-- ------cpu-----
+ r  b   swpd   free   buff  cache   si   so    bi    bo   in   cs us sy id wa st
+ 0  0      0 2407972  64880 523996    0    0    89    78   42  103  1  1 98  0  0
+Fecha y hora del evento: Wed 24 Jun 2020 06:26:01 PM UTC
+MEMORIA VIRTUAL DEL SISTEMA
+procs -----------memory---------- ---swap-- -----io---- -system-- ------cpu-----
+ r  b   swpd   free   buff  cache   si   so    bi    bo   in   cs us sy id wa st
+ 0  0      0 2408216  64896 524000    0    0    88    77   42  102  1  1 98  0  0
+Fecha y hora del evento: Wed 24 Jun 2020 06:27:01 PM UTC
+MEMORIA VIRTUAL DEL SISTEMA
+procs -----------memory---------- ---swap-- -----io---- -system-- ------cpu-----
+ r  b   swpd   free   buff  cache   si   so    bi    bo   in   cs us sy id wa st
+ 0  0      0 2407868  64924 524004    0    0    87    76   42  102  1  1 98  0  0
+Fecha y hora del evento: Wed 24 Jun 2020 06:28:01 PM UTC
+MEMORIA VIRTUAL DEL SISTEMA
+procs -----------memory---------- ---swap-- -----io---- -system-- ------cpu-----
+ r  b   swpd   free   buff  cache   si   so    bi    bo   in   cs us sy id wa st
+ 0  0      0 2407868  64948 524020    0    0    86    76   41  101  1  1 98  0  0
+Fecha y hora del evento: Wed 24 Jun 2020 06:29:01 PM UTC
+MEMORIA VIRTUAL DEL SISTEMA
+procs -----------memory---------- ---swap-- -----io---- -system-- ------cpu-----
+ r  b   swpd   free   buff  cache   si   so    bi    bo   in   cs us sy id wa st
+ 0  0      0 2407584  65004 524016    0    0    85    75   41  100  1  1 98  0  0
+Fecha y hora del evento: Wed 24 Jun 2020 06:30:01 PM UTC
+MEMORIA VIRTUAL DEL SISTEMA
+procs -----------memory---------- ---swap-- -----io---- -system-- ------cpu-----
+ r  b   swpd   free   buff  cache   si   so    bi    bo   in   cs us sy id wa st
+ 0  0      0 2407868  65028 524032    0    0    84    74   41   99  1  1 98  0  0
+Fecha y hora del evento: Wed 24 Jun 2020 06:31:01 PM UTC
+MEMORIA VIRTUAL DEL SISTEMA
+procs -----------memory---------- ---swap-- -----io---- -system-- ------cpu-----
+ r  b   swpd   free   buff  cache   si   so    bi    bo   in   cs us sy id wa st
+ 0  0      0 2407836  65068 524040    0    0    82    73   41   99  1  1 98  0  0
+Fecha y hora del evento: Wed 24 Jun 2020 06:32:02 PM UTC
+MEMORIA VIRTUAL DEL SISTEMA
+procs -----------memory---------- ---swap-- -----io---- -system-- ------cpu-----
+ r  b   swpd   free   buff  cache   si   so    bi    bo   in   cs us sy id wa st
+ 0  0      0 2407552  65088 524048    0    0    81    72   41   98  1  1 98  0  0
+Fecha y hora del evento: Wed 24 Jun 2020 06:33:01 PM UTC
+MEMORIA VIRTUAL DEL SISTEMA
+procs -----------memory---------- ---swap-- -----io---- -system-- ------cpu-----
+ r  b   swpd   free   buff  cache   si   so    bi    bo   in   cs us sy id wa st
+ 0  0      0 2407584  65116 524052    0    0    80    72   40   97  1  1 98  0  0
+Fecha y hora del evento: Wed 24 Jun 2020 06:34:01 PM UTC
+MEMORIA VIRTUAL DEL SISTEMA
+procs -----------memory---------- ---swap-- -----io---- -system-- ------cpu-----
+ r  b   swpd   free   buff  cache   si   so    bi    bo   in   cs us sy id wa st
+ 0  0      0 2407300  65164 524044    0    0    79    71   40   97  1  1 98  0  0
+Fecha y hora del evento: Wed 24 Jun 2020 06:35:01 PM UTC
+MEMORIA VIRTUAL DEL SISTEMA
+procs -----------memory---------- ---swap-- -----io---- -system-- ------cpu-----
+ r  b   swpd   free   buff  cache   si   so    bi    bo   in   cs us sy id wa st
+ 0  0      0 2407488  65192 524064    0    0    79    70   40   96  1  1 98  0  0
+Fecha y hora del evento: Wed 24 Jun 2020 06:36:01 PM UTC
+MEMORIA VIRTUAL DEL SISTEMA
+procs -----------memory---------- ---swap-- -----io---- -system-- ------cpu-----
+ r  b   swpd   free   buff  cache   si   so    bi    bo   in   cs us sy id wa st
+ 0  0      0 2407204  65208 524200    0    0    78    70   40   95  1  1 98  0  0
+Fecha y hora del evento: Wed 24 Jun 2020 06:37:01 PM UTC
+MEMORIA VIRTUAL DEL SISTEMA
+procs -----------memory---------- ---swap-- -----io---- -system-- ------cpu-----
+ r  b   swpd   free   buff  cache   si   so    bi    bo   in   cs us sy id wa st
+ 0  0      0 2407268  65236 524212    0    0    77    69   40   95  1  1 98  0  0
+Fecha y hora del evento: Wed 24 Jun 2020 06:38:02 PM UTC
+MEMORIA VIRTUAL DEL SISTEMA
+procs -----------memory---------- ---swap-- -----io---- -system-- ------cpu-----
+ r  b   swpd   free   buff  cache   si   so    bi    bo   in   cs us sy id wa st
+ 0  0      0 2407268  65260 524224    0    0    76    68   40   94  1  1 98  0  0
+Fecha y hora del evento: Wed 24 Jun 2020 06:39:01 PM UTC
+MEMORIA VIRTUAL DEL SISTEMA
+procs -----------memory---------- ---swap-- -----io---- -system-- ------cpu-----
+ r  b   swpd   free   buff  cache   si   so    bi    bo   in   cs us sy id wa st
+ 0  0      0 2407236  65284 524228    0    0    75    68   39   94  1  1 98  0  0
+Fecha y hora del evento: Wed 24 Jun 2020 06:40:02 PM UTC
+MEMORIA VIRTUAL DEL SISTEMA
+procs -----------memory---------- ---swap-- -----io---- -system-- ------cpu-----
+ r  b   swpd   free   buff  cache   si   so    bi    bo   in   cs us sy id wa st
+ 0  0      0 2407236  65336 524224    0    0    74    67   39   93  1  1 98  0  0
+Fecha y hora del evento: Wed 24 Jun 2020 06:41:01 PM UTC
+MEMORIA VIRTUAL DEL SISTEMA
+procs -----------memory---------- ---swap-- -----io---- -system-- ------cpu-----
+ r  b   swpd   free   buff  cache   si   so    bi    bo   in   cs us sy id wa st
+ 0  0      0 2407236  65360 524236    0    0    73    66   39   93  1  1 98  0  0
+Fecha y hora del evento: Wed 24 Jun 2020 06:42:01 PM UTC
+MEMORIA VIRTUAL DEL SISTEMA
+procs -----------memory---------- ---swap-- -----io---- -system-- ------cpu-----
+ r  b   swpd   free   buff  cache   si   so    bi    bo   in   cs us sy id wa st
+ 0  0      0 2407048  65380 524244    0    0    73    66   39   92  1  1 98  0  0
+Fecha y hora del evento: Wed 24 Jun 2020 06:43:02 PM UTC
+MEMORIA VIRTUAL DEL SISTEMA
+procs -----------memory---------- ---swap-- -----io---- -system-- ------cpu-----
+ r  b   swpd   free   buff  cache   si   so    bi    bo   in   cs us sy id wa st
+ 0  0      0 2409048  65404 524244    0    0    72    65   39   92  1  1 98  0  0
+Fecha y hora del evento: Wed 24 Jun 2020 06:44:01 PM UTC
+MEMORIA VIRTUAL DEL SISTEMA
+procs -----------memory---------- ---swap-- -----io---- -system-- ------cpu-----
+ r  b   swpd   free   buff  cache   si   so    bi    bo   in   cs us sy id wa st
+ 0  0      0 2408860  65428 524248    0    0    71    65   39   91  1  1 98  0  0
+Fecha y hora del evento: Wed 24 Jun 2020 06:45:01 PM UTC
+MEMORIA VIRTUAL DEL SISTEMA
+procs -----------memory---------- ---swap-- -----io---- -system-- ------cpu-----
+ r  b   swpd   free   buff  cache   si   so    bi    bo   in   cs us sy id wa st
+ 0  0      0 2408860  65500 524244    0    0    70    64   39   91  1  1 98  0  0
+Fecha y hora del evento: Wed 24 Jun 2020 06:46:01 PM UTC
+MEMORIA VIRTUAL DEL SISTEMA
+procs -----------memory---------- ---swap-- -----io---- -system-- ------cpu-----
+ r  b   swpd   free   buff  cache   si   so    bi    bo   in   cs us sy id wa st
+ 0  0      0 2406860  65536 524272    0    0    69    64   39   90  1  1 98  0  0
+Fecha y hora del evento: Wed 24 Jun 2020 06:47:01 PM UTC
+MEMORIA VIRTUAL DEL SISTEMA
+procs -----------memory---------- ---swap-- -----io---- -system-- ------cpu-----
+ r  b   swpd   free   buff  cache   si   so    bi    bo   in   cs us sy id wa st
+ 0  0      0 2408860  65560 524276    0    0    69    63   38   90  1  1 98  0  0
+Fecha y hora del evento: Wed 24 Jun 2020 06:48:01 PM UTC
+MEMORIA VIRTUAL DEL SISTEMA
+procs -----------memory---------- ---swap-- -----io---- -system-- ------cpu-----
+ r  b   swpd   free   buff  cache   si   so    bi    bo   in   cs us sy id wa st
+ 0  0      0 2406544  65584 524292    0    0    68    63   38   90  1  1 98  0  0
+Fecha y hora del evento: Wed 24 Jun 2020 06:49:01 PM UTC
+MEMORIA VIRTUAL DEL SISTEMA
+procs -----------memory---------- ---swap-- -----io---- -system-- ------cpu-----
+ r  b   swpd   free   buff  cache   si   so    bi    bo   in   cs us sy id wa st
+ 0  0      0 2408544  65612 524292    0    0    67    62   38   89  1  1 98  0  0
+Fecha y hora del evento: Wed 24 Jun 2020 06:50:01 PM UTC
+MEMORIA VIRTUAL DEL SISTEMA
+procs -----------memory---------- ---swap-- -----io---- -system-- ------cpu-----
+ r  b   swpd   free   buff  cache   si   so    bi    bo   in   cs us sy id wa st
+ 0  0      0 2407684  65660 524452    0    0    67    62   38   89  1  1 98  0  0
+Fecha y hora del evento: Wed 24 Jun 2020 06:51:01 PM UTC
+MEMORIA VIRTUAL DEL SISTEMA
+procs -----------memory---------- ---swap-- -----io---- -system-- ------cpu-----
+ r  b   swpd   free   buff  cache   si   so    bi    bo   in   cs us sy id wa st
+ 0  0      0 2407596  65708 524436    0    0    66    61   38   88  1  1 98  0  0
+Fecha y hora del evento: Wed 24 Jun 2020 06:52:01 PM UTC
+MEMORIA VIRTUAL DEL SISTEMA
+procs -----------memory---------- ---swap-- -----io---- -system-- ------cpu-----
+ r  b   swpd   free   buff  cache   si   so    bi    bo   in   cs us sy id wa st
+ 0  0      0 2407524  65724 524444    0    0    65    61   38   88  1  1 98  0  0
+Fecha y hora del evento: Wed 24 Jun 2020 06:53:01 PM UTC
+MEMORIA VIRTUAL DEL SISTEMA
+procs -----------memory---------- ---swap-- -----io---- -system-- ------cpu-----
+ r  b   swpd   free   buff  cache   si   so    bi    bo   in   cs us sy id wa st
+ 0  0      0 2407460  65744 524444    0    0    65    60   38   88  1  1 98  0  0
+Fecha y hora del evento: Wed 24 Jun 2020 06:54:01 PM UTC
+MEMORIA VIRTUAL DEL SISTEMA
+procs -----------memory---------- ---swap-- -----io---- -system-- ------cpu-----
+ r  b   swpd   free   buff  cache   si   so    bi    bo   in   cs us sy id wa st
+ 0  0      0 2406980  65756 524576    0    0    64    60   38   87  1  1 98  0  0
+Fecha y hora del evento: Wed 24 Jun 2020 06:55:01 PM UTC
+MEMORIA VIRTUAL DEL SISTEMA
+procs -----------memory---------- ---swap-- -----io---- -system-- ------cpu-----
+ r  b   swpd   free   buff  cache   si   so    bi    bo   in   cs us sy id wa st
+ 0  0      0 2407072  65780 524596    0    0    63    59   38   87  1  1 98  0  0
+Fecha y hora del evento: Wed 24 Jun 2020 06:56:02 PM UTC
+MEMORIA VIRTUAL DEL SISTEMA
+procs -----------memory---------- ---swap-- -----io---- -system-- ------cpu-----
+ r  b   swpd   free   buff  cache   si   so    bi    bo   in   cs us sy id wa st
+ 0  0      0 2407232  65824 524600    0    0    63    59   38   87  1  1 98  0  0
+Fecha y hora del evento: Wed 24 Jun 2020 06:57:01 PM UTC
+MEMORIA VIRTUAL DEL SISTEMA
+procs -----------memory---------- ---swap-- -----io---- -system-- ------cpu-----
+ r  b   swpd   free   buff  cache   si   so    bi    bo   in   cs us sy id wa st
+ 0  0      0 2407168  65844 524608    0    0    62    58   38   87  1  1 98  0  0
+Fecha y hora del evento: Wed 24 Jun 2020 06:58:01 PM UTC
+MEMORIA VIRTUAL DEL SISTEMA
+procs -----------memory---------- ---swap-- -----io---- -system-- ------cpu-----
+ r  b   swpd   free   buff  cache   si   so    bi    bo   in   cs us sy id wa st
+ 0  0      0 2406440  65864 524616    0    0    62    58   38   87  1  1 98  0  0
+Fecha y hora del evento: Wed 24 Jun 2020 06:59:01 PM UTC
+MEMORIA VIRTUAL DEL SISTEMA
+procs -----------memory---------- ---swap-- -----io---- -system-- ------cpu-----
+ r  b   swpd   free   buff  cache   si   so    bi    bo   in   cs us sy id wa st
+ 0  0      0 2406660  65876 524628    0    0    61    57   38   87  1  1 98  0  0
+Fecha y hora del evento: Wed 24 Jun 2020 07:00:01 PM UTC
+MEMORIA VIRTUAL DEL SISTEMA
+procs -----------memory---------- ---swap-- -----io---- -system-- ------cpu-----
+ r  b   swpd   free   buff  cache   si   so    bi    bo   in   cs us sy id wa st
+ 0  0      0 2406312  65916 524628    0    0    61    57   38   87  1  1 98  0  0
+Fecha y hora del evento: Wed 24 Jun 2020 07:01:01 PM UTC
+MEMORIA VIRTUAL DEL SISTEMA
+procs -----------memory---------- ---swap-- -----io---- -system-- ------cpu-----
+ r  b   swpd   free   buff  cache   si   so    bi    bo   in   cs us sy id wa st
+ 0  0      0 2406376  65968 524636    0    0    60    57   38   86  1  1 98  0  0
+Fecha y hora del evento: Wed 24 Jun 2020 07:02:01 PM UTC
+MEMORIA VIRTUAL DEL SISTEMA
+procs -----------memory---------- ---swap-- -----io---- -system-- ------cpu-----
+ r  b   swpd   free   buff  cache   si   so    bi    bo   in   cs us sy id wa st
+ 0  0      0 2406596  65988 524656    0    0    59    56   38   86  1  1 98  0  0
+Fecha y hora del evento: Wed 24 Jun 2020 07:03:01 PM UTC
+MEMORIA VIRTUAL DEL SISTEMA
+procs -----------memory---------- ---swap-- -----io---- -system-- ------cpu-----
+ r  b   swpd   free   buff  cache   si   so    bi    bo   in   cs us sy id wa st
+ 0  0      0 2406344  66016 524660    0    0    59    56   38   86  1  1 98  0  0
+Fecha y hora del evento: Wed 24 Jun 2020 07:04:01 PM UTC
+MEMORIA VIRTUAL DEL SISTEMA
+procs -----------memory---------- ---swap-- -----io---- -system-- ------cpu-----
+ r  b   swpd   free   buff  cache   si   so    bi    bo   in   cs us sy id wa st
+ 0  0      0 2406500  66040 524664    0    0    58    55   38   86  1  1 98  0  0
+Fecha y hora del evento: Wed 24 Jun 2020 07:05:01 PM UTC
+MEMORIA VIRTUAL DEL SISTEMA
+procs -----------memory---------- ---swap-- -----io---- -system-- ------cpu-----
+ r  b   swpd   free   buff  cache   si   so    bi    bo   in   cs us sy id wa st
+ 0  0      0 2406248  66072 524672    0    0    58    55   38   86  1  1 98  0  0
+Fecha y hora del evento: Wed 24 Jun 2020 07:06:01 PM UTC
+MEMORIA VIRTUAL DEL SISTEMA
+procs -----------memory---------- ---swap-- -----io---- -system-- ------cpu-----
+ r  b   swpd   free   buff  cache   si   so    bi    bo   in   cs us sy id wa st
+ 0  0      0 2405808  66124 524816    0    0    57    55   38   85  1  1 98  0  0
+Fecha y hora del evento: Wed 24 Jun 2020 07:07:01 PM UTC
+MEMORIA VIRTUAL DEL SISTEMA
+procs -----------memory---------- ---swap-- -----io---- -system-- ------cpu-----
+ r  b   swpd   free   buff  cache   si   so    bi    bo   in   cs us sy id wa st
+ 0  0      0 2405768  66140 524808    0    0    57    54   38   86  1  1 98  0  0
+Fecha y hora del evento: Wed 24 Jun 2020 07:08:01 PM UTC
+MEMORIA VIRTUAL DEL SISTEMA
+procs -----------memory---------- ---swap-- -----io---- -system-- ------cpu-----
+ r  b   swpd   free   buff  cache   si   so    bi    bo   in   cs us sy id wa st
+ 0  0      0 2406084  66160 524956    0    0    56    54   38   85  1  1 98  0  0
+Fecha y hora del evento: Wed 24 Jun 2020 07:09:02 PM UTC
+MEMORIA VIRTUAL DEL SISTEMA
+procs -----------memory---------- ---swap-- -----io---- -system-- ------cpu-----
+ r  b   swpd   free   buff  cache   si   so    bi    bo   in   cs us sy id wa st
+ 0  0      0 2405640  66184 524952    0    0    56    54   38   85  1  1 98  0  0
+Fecha y hora del evento: Wed 24 Jun 2020 07:10:01 PM UTC
+MEMORIA VIRTUAL DEL SISTEMA
+procs -----------memory---------- ---swap-- -----io---- -system-- ------cpu-----
+ r  b   swpd   free   buff  cache   si   so    bi    bo   in   cs us sy id wa st
+ 0  0      0 2405640  66212 524956    0    0    56    53   38   85  1  1 98  0  0
+Fecha y hora del evento: Wed 24 Jun 2020 07:11:01 PM UTC
+MEMORIA VIRTUAL DEL SISTEMA
+procs -----------memory---------- ---swap-- -----io---- -system-- ------cpu-----
+ r  b   swpd   free   buff  cache   si   so    bi    bo   in   cs us sy id wa st
+ 0  0      0 2405736  66256 524952    0    0    55    53   38   85  1  1 98  0  0
+Fecha y hora del evento: Wed 24 Jun 2020 07:12:01 PM UTC
+MEMORIA VIRTUAL DEL SISTEMA
+procs -----------memory---------- ---swap-- -----io---- -system-- ------cpu-----
+ r  b   swpd   free   buff  cache   si   so    bi    bo   in   cs us sy id wa st
+ 0  0      0 2405736  66284 524972    0    0    55    53   38   84  1  1 98  0  0
+Fecha y hora del evento: Wed 24 Jun 2020 07:13:01 PM UTC
+MEMORIA VIRTUAL DEL SISTEMA
+procs -----------memory---------- ---swap-- -----io---- -system-- ------cpu-----
+ r  b   swpd   free   buff  cache   si   so    bi    bo   in   cs us sy id wa st
+ 0  0      0 2405580  66312 524980    0    0    54    52   38   84  1  1 98  0  0
+Fecha y hora del evento: Wed 24 Jun 2020 07:14:01 PM UTC
+MEMORIA VIRTUAL DEL SISTEMA
+procs -----------memory---------- ---swap-- -----io---- -system-- ------cpu-----
+ r  b   swpd   free   buff  cache   si   so    bi    bo   in   cs us sy id wa st
+ 0  0      0 2405672  66324 524992    0    0    54    52   38   84  1  1 98  0  0
+Fecha y hora del evento: Wed 24 Jun 2020 06:12:01 PM UTC
+MEMORIA VIRTUAL DEL SISTEMA
+procs -----------memory---------- ---swap-- -----io---- -system-- ------cpu-----
+ r  b   swpd   free   buff  cache   si   so    bi    bo   in   cs us sy id wa st
+ 0  0      0 2406928  64308 523544    0    0   108    92   46  115  1  1 97  0  0
+Fecha y hora del evento: Wed 24 Jun 2020 06:13:01 PM UTC
+MEMORIA VIRTUAL DEL SISTEMA
+procs -----------memory---------- ---swap-- -----io---- -system-- ------cpu-----
+ r  b   swpd   free   buff  cache   si   so    bi    bo   in   cs us sy id wa st
+ 0  0      0 2406928  64368 523648    0    0   106    91   46  114  1  1 97  0  0
+Fecha y hora del evento: Wed 24 Jun 2020 06:14:01 PM UTC
+MEMORIA VIRTUAL DEL SISTEMA
+procs -----------memory---------- ---swap-- -----io---- -system-- ------cpu-----
+ r  b   swpd   free   buff  cache   si   so    bi    bo   in   cs us sy id wa st
+ 0  0      0 2407024  64392 523652    0    0   105    90   45  113  1  1 97  0  0
+Fecha y hora del evento: Wed 24 Jun 2020 06:15:01 PM UTC
+MEMORIA VIRTUAL DEL SISTEMA
+procs -----------memory---------- ---swap-- -----io---- -system-- ------cpu-----
+ r  b   swpd   free   buff  cache   si   so    bi    bo   in   cs us sy id wa st
+ 0  0      0 2406740  64440 523680    0    0   103    88   45  112  1  1 97  0  0
+Fecha y hora del evento: Wed 24 Jun 2020 06:16:01 PM UTC
+MEMORIA VIRTUAL DEL SISTEMA
+procs -----------memory---------- ---swap-- -----io---- -system-- ------cpu-----
+ r  b   swpd   free   buff  cache   si   so    bi    bo   in   cs us sy id wa st
+ 0  0      0 2405064  64488 523672    0    0   101    87   45  112  1  1 97  0  0
+Fecha y hora del evento: Wed 24 Jun 2020 06:17:01 PM UTC
+MEMORIA VIRTUAL DEL SISTEMA
+procs -----------memory---------- ---swap-- -----io---- -system-- ------cpu-----
+ r  b   swpd   free   buff  cache   si   so    bi    bo   in   cs us sy id wa st
+ 0  0      0 2404528  64648 523684    0    0   100    86   45  111  1  1 98  0  0
+Fecha y hora del evento: Wed 24 Jun 2020 06:18:01 PM UTC
+MEMORIA VIRTUAL DEL SISTEMA
+procs -----------memory---------- ---swap-- -----io---- -system-- ------cpu-----
+ r  b   swpd   free   buff  cache   si   so    bi    bo   in   cs us sy id wa st
+ 0  0      0 2404432  64668 523692    0    0    98    85   44  110  1  1 98  0  0
+Fecha y hora del evento: Wed 24 Jun 2020 06:19:01 PM UTC
+MEMORIA VIRTUAL DEL SISTEMA
+procs -----------memory---------- ---swap-- -----io---- -system-- ------cpu-----
+ r  b   swpd   free   buff  cache   si   so    bi    bo   in   cs us sy id wa st
+ 0  0      0 2406952  64716 523684    0    0    97    84   44  109  1  1 98  0  0
+Fecha y hora del evento: Wed 24 Jun 2020 06:20:01 PM UTC
+MEMORIA VIRTUAL DEL SISTEMA
+procs -----------memory---------- ---swap-- -----io---- -system-- ------cpu-----
+ r  b   swpd   free   buff  cache   si   so    bi    bo   in   cs us sy id wa st
+ 0  0      0 2406764  64752 523828    0    0    96    83   44  108  1  1 98  0  0
+Fecha y hora del evento: Wed 24 Jun 2020 06:21:01 PM UTC
+MEMORIA VIRTUAL DEL SISTEMA
+procs -----------memory---------- ---swap-- -----io---- -system-- ------cpu-----
+ r  b   swpd   free   buff  cache   si   so    bi    bo   in   cs us sy id wa st
+ 0  0      0 2406608  64784 523992    0    0    94    82   43  107  1  1 98  0  0
+Fecha y hora del evento: Wed 24 Jun 2020 06:22:01 PM UTC
+MEMORIA VIRTUAL DEL SISTEMA
+procs -----------memory---------- ---swap-- -----io---- -system-- ------cpu-----
+ r  b   swpd   free   buff  cache   si   so    bi    bo   in   cs us sy id wa st
+ 0  0      0 2408120  64808 523976    0    0    93    81   43  106  1  1 98  0  0
+Fecha y hora del evento: Wed 24 Jun 2020 06:23:01 PM UTC
+MEMORIA VIRTUAL DEL SISTEMA
+procs -----------memory---------- ---swap-- -----io---- -system-- ------cpu-----
+ r  b   swpd   free   buff  cache   si   so    bi    bo   in   cs us sy id wa st
+ 0  0      0 2408152  64824 523976    0    0    92    80   43  105  1  1 98  0  0
+Fecha y hora del evento: Wed 24 Jun 2020 06:24:01 PM UTC
+MEMORIA VIRTUAL DEL SISTEMA
+procs -----------memory---------- ---swap-- -----io---- -system-- ------cpu-----
+ r  b   swpd   free   buff  cache   si   so    bi    bo   in   cs us sy id wa st
+ 0  0      0 2408280  64852 523984    0    0    90    79   42  104  1  1 98  0  0
+Fecha y hora del evento: Wed 24 Jun 2020 06:25:02 PM UTC
+MEMORIA VIRTUAL DEL SISTEMA
+procs -----------memory---------- ---swap-- -----io---- -system-- ------cpu-----
+ r  b   swpd   free   buff  cache   si   so    bi    bo   in   cs us sy id wa st
+ 0  0      0 2407972  64880 523996    0    0    89    78   42  103  1  1 98  0  0
+Fecha y hora del evento: Wed 24 Jun 2020 06:26:01 PM UTC
+MEMORIA VIRTUAL DEL SISTEMA
+procs -----------memory---------- ---swap-- -----io---- -system-- ------cpu-----
+ r  b   swpd   free   buff  cache   si   so    bi    bo   in   cs us sy id wa st
+ 0  0      0 2408216  64896 524000    0    0    88    77   42  102  1  1 98  0  0
+Fecha y hora del evento: Wed 24 Jun 2020 06:27:01 PM UTC
+MEMORIA VIRTUAL DEL SISTEMA
+procs -----------memory---------- ---swap-- -----io---- -system-- ------cpu-----
+ r  b   swpd   free   buff  cache   si   so    bi    bo   in   cs us sy id wa st
+ 0  0      0 2407868  64924 524004    0    0    87    76   42  102  1  1 98  0  0
+Fecha y hora del evento: Wed 24 Jun 2020 06:28:01 PM UTC
+MEMORIA VIRTUAL DEL SISTEMA
+procs -----------memory---------- ---swap-- -----io---- -system-- ------cpu-----
+ r  b   swpd   free   buff  cache   si   so    bi    bo   in   cs us sy id wa st
+ 0  0      0 2407868  64948 524020    0    0    86    76   41  101  1  1 98  0  0
+Fecha y hora del evento: Wed 24 Jun 2020 06:29:01 PM UTC
+MEMORIA VIRTUAL DEL SISTEMA
+procs -----------memory---------- ---swap-- -----io---- -system-- ------cpu-----
+ r  b   swpd   free   buff  cache   si   so    bi    bo   in   cs us sy id wa st
+ 0  0      0 2407584  65004 524016    0    0    85    75   41  100  1  1 98  0  0
+Fecha y hora del evento: Wed 24 Jun 2020 06:30:01 PM UTC
+MEMORIA VIRTUAL DEL SISTEMA
+procs -----------memory---------- ---swap-- -----io---- -system-- ------cpu-----
+ r  b   swpd   free   buff  cache   si   so    bi    bo   in   cs us sy id wa st
+ 0  0      0 2407868  65028 524032    0    0    84    74   41   99  1  1 98  0  0
+Fecha y hora del evento: Wed 24 Jun 2020 06:31:01 PM UTC
+MEMORIA VIRTUAL DEL SISTEMA
+procs -----------memory---------- ---swap-- -----io---- -system-- ------cpu-----
+ r  b   swpd   free   buff  cache   si   so    bi    bo   in   cs us sy id wa st
+ 0  0      0 2407836  65068 524040    0    0    82    73   41   99  1  1 98  0  0
+Fecha y hora del evento: Wed 24 Jun 2020 06:32:02 PM UTC
+MEMORIA VIRTUAL DEL SISTEMA
+procs -----------memory---------- ---swap-- -----io---- -system-- ------cpu-----
+ r  b   swpd   free   buff  cache   si   so    bi    bo   in   cs us sy id wa st
+ 0  0      0 2407552  65088 524048    0    0    81    72   41   98  1  1 98  0  0
+Fecha y hora del evento: Wed 24 Jun 2020 06:33:01 PM UTC
+MEMORIA VIRTUAL DEL SISTEMA
+procs -----------memory---------- ---swap-- -----io---- -system-- ------cpu-----
+ r  b   swpd   free   buff  cache   si   so    bi    bo   in   cs us sy id wa st
+ 0  0      0 2407584  65116 524052    0    0    80    72   40   97  1  1 98  0  0
+Fecha y hora del evento: Wed 24 Jun 2020 06:34:01 PM UTC
+MEMORIA VIRTUAL DEL SISTEMA
+procs -----------memory---------- ---swap-- -----io---- -system-- ------cpu-----
+ r  b   swpd   free   buff  cache   si   so    bi    bo   in   cs us sy id wa st
+ 0  0      0 2407300  65164 524044    0    0    79    71   40   97  1  1 98  0  0
+Fecha y hora del evento: Wed 24 Jun 2020 06:35:01 PM UTC
+MEMORIA VIRTUAL DEL SISTEMA
+procs -----------memory---------- ---swap-- -----io---- -system-- ------cpu-----
+ r  b   swpd   free   buff  cache   si   so    bi    bo   in   cs us sy id wa st
+ 0  0      0 2407488  65192 524064    0    0    79    70   40   96  1  1 98  0  0
+Fecha y hora del evento: Wed 24 Jun 2020 06:36:01 PM UTC
+MEMORIA VIRTUAL DEL SISTEMA
+procs -----------memory---------- ---swap-- -----io---- -system-- ------cpu-----
+ r  b   swpd   free   buff  cache   si   so    bi    bo   in   cs us sy id wa st
+ 0  0      0 2407204  65208 524200    0    0    78    70   40   95  1  1 98  0  0
+Fecha y hora del evento: Wed 24 Jun 2020 06:37:01 PM UTC
+MEMORIA VIRTUAL DEL SISTEMA
+procs -----------memory---------- ---swap-- -----io---- -system-- ------cpu-----
+ r  b   swpd   free   buff  cache   si   so    bi    bo   in   cs us sy id wa st
+ 0  0      0 2407268  65236 524212    0    0    77    69   40   95  1  1 98  0  0
+Fecha y hora del evento: Wed 24 Jun 2020 06:38:02 PM UTC
+MEMORIA VIRTUAL DEL SISTEMA
+procs -----------memory---------- ---swap-- -----io---- -system-- ------cpu-----
+ r  b   swpd   free   buff  cache   si   so    bi    bo   in   cs us sy id wa st
+ 0  0      0 2407268  65260 524224    0    0    76    68   40   94  1  1 98  0  0
+Fecha y hora del evento: Wed 24 Jun 2020 06:39:01 PM UTC
+MEMORIA VIRTUAL DEL SISTEMA
+procs -----------memory---------- ---swap-- -----io---- -system-- ------cpu-----
+ r  b   swpd   free   buff  cache   si   so    bi    bo   in   cs us sy id wa st
+ 0  0      0 2407236  65284 524228    0    0    75    68   39   94  1  1 98  0  0
+Fecha y hora del evento: Wed 24 Jun 2020 06:40:02 PM UTC
+MEMORIA VIRTUAL DEL SISTEMA
+procs -----------memory---------- ---swap-- -----io---- -system-- ------cpu-----
+ r  b   swpd   free   buff  cache   si   so    bi    bo   in   cs us sy id wa st
+ 0  0      0 2407236  65336 524224    0    0    74    67   39   93  1  1 98  0  0
+Fecha y hora del evento: Wed 24 Jun 2020 06:41:01 PM UTC
+MEMORIA VIRTUAL DEL SISTEMA
+procs -----------memory---------- ---swap-- -----io---- -system-- ------cpu-----
+ r  b   swpd   free   buff  cache   si   so    bi    bo   in   cs us sy id wa st
+ 0  0      0 2407236  65360 524236    0    0    73    66   39   93  1  1 98  0  0
+Fecha y hora del evento: Wed 24 Jun 2020 06:42:01 PM UTC
+MEMORIA VIRTUAL DEL SISTEMA
+procs -----------memory---------- ---swap-- -----io---- -system-- ------cpu-----
+ r  b   swpd   free   buff  cache   si   so    bi    bo   in   cs us sy id wa st
+ 0  0      0 2407048  65380 524244    0    0    73    66   39   92  1  1 98  0  0
+Fecha y hora del evento: Wed 24 Jun 2020 06:43:02 PM UTC
+MEMORIA VIRTUAL DEL SISTEMA
+procs -----------memory---------- ---swap-- -----io---- -system-- ------cpu-----
+ r  b   swpd   free   buff  cache   si   so    bi    bo   in   cs us sy id wa st
+ 0  0      0 2409048  65404 524244    0    0    72    65   39   92  1  1 98  0  0
+Fecha y hora del evento: Wed 24 Jun 2020 06:44:01 PM UTC
+MEMORIA VIRTUAL DEL SISTEMA
+procs -----------memory---------- ---swap-- -----io---- -system-- ------cpu-----
+ r  b   swpd   free   buff  cache   si   so    bi    bo   in   cs us sy id wa st
+ 0  0      0 2408860  65428 524248    0    0    71    65   39   91  1  1 98  0  0
+Fecha y hora del evento: Wed 24 Jun 2020 06:45:01 PM UTC
+MEMORIA VIRTUAL DEL SISTEMA
+procs -----------memory---------- ---swap-- -----io---- -system-- ------cpu-----
+ r  b   swpd   free   buff  cache   si   so    bi    bo   in   cs us sy id wa st
+ 0  0      0 2408860  65500 524244    0    0    70    64   39   91  1  1 98  0  0
+Fecha y hora del evento: Wed 24 Jun 2020 06:46:01 PM UTC
+MEMORIA VIRTUAL DEL SISTEMA
+procs -----------memory---------- ---swap-- -----io---- -system-- ------cpu-----
+ r  b   swpd   free   buff  cache   si   so    bi    bo   in   cs us sy id wa st
+ 0  0      0 2406860  65536 524272    0    0    69    64   39   90  1  1 98  0  0
+Fecha y hora del evento: Wed 24 Jun 2020 06:47:01 PM UTC
+MEMORIA VIRTUAL DEL SISTEMA
+procs -----------memory---------- ---swap-- -----io---- -system-- ------cpu-----
+ r  b   swpd   free   buff  cache   si   so    bi    bo   in   cs us sy id wa st
+ 0  0      0 2408860  65560 524276    0    0    69    63   38   90  1  1 98  0  0
+Fecha y hora del evento: Wed 24 Jun 2020 06:48:01 PM UTC
+MEMORIA VIRTUAL DEL SISTEMA
+procs -----------memory---------- ---swap-- -----io---- -system-- ------cpu-----
+ r  b   swpd   free   buff  cache   si   so    bi    bo   in   cs us sy id wa st
+ 0  0      0 2406544  65584 524292    0    0    68    63   38   90  1  1 98  0  0
+Fecha y hora del evento: Wed 24 Jun 2020 06:49:01 PM UTC
+MEMORIA VIRTUAL DEL SISTEMA
+procs -----------memory---------- ---swap-- -----io---- -system-- ------cpu-----
+ r  b   swpd   free   buff  cache   si   so    bi    bo   in   cs us sy id wa st
+ 0  0      0 2408544  65612 524292    0    0    67    62   38   89  1  1 98  0  0
+Fecha y hora del evento: Wed 24 Jun 2020 06:50:01 PM UTC
+MEMORIA VIRTUAL DEL SISTEMA
+procs -----------memory---------- ---swap-- -----io---- -system-- ------cpu-----
+ r  b   swpd   free   buff  cache   si   so    bi    bo   in   cs us sy id wa st
+ 0  0      0 2407684  65660 524452    0    0    67    62   38   89  1  1 98  0  0
+Fecha y hora del evento: Wed 24 Jun 2020 06:51:01 PM UTC
+MEMORIA VIRTUAL DEL SISTEMA
+procs -----------memory---------- ---swap-- -----io---- -system-- ------cpu-----
+ r  b   swpd   free   buff  cache   si   so    bi    bo   in   cs us sy id wa st
+ 0  0      0 2407596  65708 524436    0    0    66    61   38   88  1  1 98  0  0
+Fecha y hora del evento: Wed 24 Jun 2020 06:52:01 PM UTC
+MEMORIA VIRTUAL DEL SISTEMA
+procs -----------memory---------- ---swap-- -----io---- -system-- ------cpu-----
+ r  b   swpd   free   buff  cache   si   so    bi    bo   in   cs us sy id wa st
+ 0  0      0 2407524  65724 524444    0    0    65    61   38   88  1  1 98  0  0
+Fecha y hora del evento: Wed 24 Jun 2020 06:53:01 PM UTC
+MEMORIA VIRTUAL DEL SISTEMA
+procs -----------memory---------- ---swap-- -----io---- -system-- ------cpu-----
+ r  b   swpd   free   buff  cache   si   so    bi    bo   in   cs us sy id wa st
+ 0  0      0 2407460  65744 524444    0    0    65    60   38   88  1  1 98  0  0
+Fecha y hora del evento: Wed 24 Jun 2020 06:54:01 PM UTC
+MEMORIA VIRTUAL DEL SISTEMA
+procs -----------memory---------- ---swap-- -----io---- -system-- ------cpu-----
+ r  b   swpd   free   buff  cache   si   so    bi    bo   in   cs us sy id wa st
+ 0  0      0 2406980  65756 524576    0    0    64    60   38   87  1  1 98  0  0
+Fecha y hora del evento: Wed 24 Jun 2020 06:55:01 PM UTC
+MEMORIA VIRTUAL DEL SISTEMA
+procs -----------memory---------- ---swap-- -----io---- -system-- ------cpu-----
+ r  b   swpd   free   buff  cache   si   so    bi    bo   in   cs us sy id wa st
+ 0  0      0 2407072  65780 524596    0    0    63    59   38   87  1  1 98  0  0
+Fecha y hora del evento: Wed 24 Jun 2020 06:56:02 PM UTC
+MEMORIA VIRTUAL DEL SISTEMA
+procs -----------memory---------- ---swap-- -----io---- -system-- ------cpu-----
+ r  b   swpd   free   buff  cache   si   so    bi    bo   in   cs us sy id wa st
+ 0  0      0 2407232  65824 524600    0    0    63    59   38   87  1  1 98  0  0
+Fecha y hora del evento: Wed 24 Jun 2020 06:57:01 PM UTC
+MEMORIA VIRTUAL DEL SISTEMA
+procs -----------memory---------- ---swap-- -----io---- -system-- ------cpu-----
+ r  b   swpd   free   buff  cache   si   so    bi    bo   in   cs us sy id wa st
+ 0  0      0 2407168  65844 524608    0    0    62    58   38   87  1  1 98  0  0
+Fecha y hora del evento: Wed 24 Jun 2020 06:58:01 PM UTC
+MEMORIA VIRTUAL DEL SISTEMA
+procs -----------memory---------- ---swap-- -----io---- -system-- ------cpu-----
+ r  b   swpd   free   buff  cache   si   so    bi    bo   in   cs us sy id wa st
+ 0  0      0 2406440  65864 524616    0    0    62    58   38   87  1  1 98  0  0
+Fecha y hora del evento: Wed 24 Jun 2020 06:59:01 PM UTC
+MEMORIA VIRTUAL DEL SISTEMA
+procs -----------memory---------- ---swap-- -----io---- -system-- ------cpu-----
+ r  b   swpd   free   buff  cache   si   so    bi    bo   in   cs us sy id wa st
+ 0  0      0 2406660  65876 524628    0    0    61    57   38   87  1  1 98  0  0
+Fecha y hora del evento: Wed 24 Jun 2020 07:00:01 PM UTC
+MEMORIA VIRTUAL DEL SISTEMA
+procs -----------memory---------- ---swap-- -----io---- -system-- ------cpu-----
+ r  b   swpd   free   buff  cache   si   so    bi    bo   in   cs us sy id wa st
+ 0  0      0 2406312  65916 524628    0    0    61    57   38   87  1  1 98  0  0
+Fecha y hora del evento: Wed 24 Jun 2020 07:01:01 PM UTC
+MEMORIA VIRTUAL DEL SISTEMA
+procs -----------memory---------- ---swap-- -----io---- -system-- ------cpu-----
+ r  b   swpd   free   buff  cache   si   so    bi    bo   in   cs us sy id wa st
+ 0  0      0 2406376  65968 524636    0    0    60    57   38   86  1  1 98  0  0
+Fecha y hora del evento: Wed 24 Jun 2020 07:02:01 PM UTC
+MEMORIA VIRTUAL DEL SISTEMA
+procs -----------memory---------- ---swap-- -----io---- -system-- ------cpu-----
+ r  b   swpd   free   buff  cache   si   so    bi    bo   in   cs us sy id wa st
+ 0  0      0 2406596  65988 524656    0    0    59    56   38   86  1  1 98  0  0
+Fecha y hora del evento: Wed 24 Jun 2020 07:03:01 PM UTC
+MEMORIA VIRTUAL DEL SISTEMA
+procs -----------memory---------- ---swap-- -----io---- -system-- ------cpu-----
+ r  b   swpd   free   buff  cache   si   so    bi    bo   in   cs us sy id wa st
+ 0  0      0 2406344  66016 524660    0    0    59    56   38   86  1  1 98  0  0
+Fecha y hora del evento: Wed 24 Jun 2020 07:04:01 PM UTC
+MEMORIA VIRTUAL DEL SISTEMA
+procs -----------memory---------- ---swap-- -----io---- -system-- ------cpu-----
+ r  b   swpd   free   buff  cache   si   so    bi    bo   in   cs us sy id wa st
+ 0  0      0 2406500  66040 524664    0    0    58    55   38   86  1  1 98  0  0
+Fecha y hora del evento: Wed 24 Jun 2020 07:05:01 PM UTC
+MEMORIA VIRTUAL DEL SISTEMA
+procs -----------memory---------- ---swap-- -----io---- -system-- ------cpu-----
+ r  b   swpd   free   buff  cache   si   so    bi    bo   in   cs us sy id wa st
+ 0  0      0 2406248  66072 524672    0    0    58    55   38   86  1  1 98  0  0
+Fecha y hora del evento: Wed 24 Jun 2020 07:06:01 PM UTC
+MEMORIA VIRTUAL DEL SISTEMA
+procs -----------memory---------- ---swap-- -----io---- -system-- ------cpu-----
+ r  b   swpd   free   buff  cache   si   so    bi    bo   in   cs us sy id wa st
+ 0  0      0 2405808  66124 524816    0    0    57    55   38   85  1  1 98  0  0
+Fecha y hora del evento: Wed 24 Jun 2020 07:07:01 PM UTC
+MEMORIA VIRTUAL DEL SISTEMA
+procs -----------memory---------- ---swap-- -----io---- -system-- ------cpu-----
+ r  b   swpd   free   buff  cache   si   so    bi    bo   in   cs us sy id wa st
+ 0  0      0 2405768  66140 524808    0    0    57    54   38   86  1  1 98  0  0
+Fecha y hora del evento: Wed 24 Jun 2020 07:08:01 PM UTC
+MEMORIA VIRTUAL DEL SISTEMA
+procs -----------memory---------- ---swap-- -----io---- -system-- ------cpu-----
+ r  b   swpd   free   buff  cache   si   so    bi    bo   in   cs us sy id wa st
+ 0  0      0 2406084  66160 524956    0    0    56    54   38   85  1  1 98  0  0
+Fecha y hora del evento: Wed 24 Jun 2020 07:09:02 PM UTC
+MEMORIA VIRTUAL DEL SISTEMA
+procs -----------memory---------- ---swap-- -----io---- -system-- ------cpu-----
+ r  b   swpd   free   buff  cache   si   so    bi    bo   in   cs us sy id wa st
+ 0  0      0 2405640  66184 524952    0    0    56    54   38   85  1  1 98  0  0
+Fecha y hora del evento: Wed 24 Jun 2020 07:10:01 PM UTC
+MEMORIA VIRTUAL DEL SISTEMA
+procs -----------memory---------- ---swap-- -----io---- -system-- ------cpu-----
+ r  b   swpd   free   buff  cache   si   so    bi    bo   in   cs us sy id wa st
+ 0  0      0 2405640  66212 524956    0    0    56    53   38   85  1  1 98  0  0
+Fecha y hora del evento: Wed 24 Jun 2020 07:11:01 PM UTC
+MEMORIA VIRTUAL DEL SISTEMA
+procs -----------memory---------- ---swap-- -----io---- -system-- ------cpu-----
+ r  b   swpd   free   buff  cache   si   so    bi    bo   in   cs us sy id wa st
+ 0  0      0 2405736  66256 524952    0    0    55    53   38   85  1  1 98  0  0
+Fecha y hora del evento: Wed 24 Jun 2020 07:12:01 PM UTC
+MEMORIA VIRTUAL DEL SISTEMA
+procs -----------memory---------- ---swap-- -----io---- -system-- ------cpu-----
+ r  b   swpd   free   buff  cache   si   so    bi    bo   in   cs us sy id wa st
+ 0  0      0 2405736  66284 524972    0    0    55    53   38   84  1  1 98  0  0
+Fecha y hora del evento: Wed 24 Jun 2020 07:13:01 PM UTC
+MEMORIA VIRTUAL DEL SISTEMA
+procs -----------memory---------- ---swap-- -----io---- -system-- ------cpu-----
+ r  b   swpd   free   buff  cache   si   so    bi    bo   in   cs us sy id wa st
+ 0  0      0 2405580  66312 524980    0    0    54    52   38   84  1  1 98  0  0
+Fecha y hora del evento: Wed 24 Jun 2020 07:14:01 PM UTC
+MEMORIA VIRTUAL DEL SISTEMA
+procs -----------memory---------- ---swap-- -----io---- -system-- ------cpu-----
+ r  b   swpd   free   buff  cache   si   so    bi    bo   in   cs us sy id wa st
+ 0  0      0 2405672  66324 524992    0    0    54    52   38   84  1  1 98  0  0
+Fecha y hora del evento: Wed 24 Jun 2020 07:15:02 PM UTC
+MEMORIA VIRTUAL DEL SISTEMA
+procs -----------memory---------- ---swap-- -----io---- -system-- ------cpu-----
+ r  b   swpd   free   buff  cache   si   so    bi    bo   in   cs us sy id wa st
+ 0  0      0 2405768  66340 525000    0    0    53    52   38   84  1  1 98  0  0
