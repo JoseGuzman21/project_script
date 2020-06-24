@@ -1,0 +1,9 @@
+Usted tiene 3 servidores:
+1. bd
+2. backend
+3. frontend
+Y puede ver su estado con:
+1. trafico
+2. ram
+3. vm
+4. fijos

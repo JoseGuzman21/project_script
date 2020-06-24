@@ -1,0 +1,660 @@
+la ram es: 2.1ram
+la ram es: 3.1ram
+la ram es: 4.1ram
+la ram es: 2.1ram
+la ram es: 3.1ram
+la ram es: 4.1ram
+la ram es: 2.1ram
+la ram es: 3.1ram
+la ram es: 4.1ram
+la ram es: 2.1ram
+la ram es: 3.1ram
+la ram es: 4.1ram
+la ram es: 2.1ram
+la ram es: 3.1ram
+la ram es: 4.1ram
+la ram es: 2.1ram
+la ram es: 3.1ram
+la ram es: 4.1ram
+la ram es: 2.1ram
+la ram es: 3.1ram
+la ram es: 4.1ram
+la ram es: 2.1ram
+la ram es: 3.1ram
+la ram es: 4.1ram
+la ram es: 2.1ram
+la ram es: 3.1ram
+la ram es: 4.1ram
+la ram es: 2.1ram
+la ram es: 3.1ram
+la ram es: 4.1ram
+la ram es: 2.1ram
+la ram es: 3.1ram
+la ram es: 4.1ram
+la ram es: 2.1ram
+la ram es: 3.1ram
+la ram es: 4.1ram
+la ram es: 2.1ram
+la ram es: 3.1ram
+la ram es: 4.1ram
+la ram es: 2.1ram
+la ram es: 3.1ram
+la ram es: 4.1ram
+la ram es: 2.1ram
+la ram es: 3.1ram
+la ram es: 4.1ram
+la ram es: 2.1ram
+la ram es: 3.1ram
+la ram es: 4.1ram
+la ram es: 2.1ram
+la ram es: 3.1ram
+la ram es: 4.1ram
+la ram es: 2.1ram
+la ram es: 3.1ram
+la ram es: 4.1ram
+la ram es: 2.1ram
+la ram es: 3.1ram
+la ram es: 4.1ram
+la ram es: 2.1ram
+la ram es: 3.1ram
+la ram es: 4.1ram
+la ram es: 2.1ram
+la ram es: 3.1ram
+la ram es: 4.1ram
+la ram es: 2.1ram
+la ram es: 3.1ram
+la ram es: 4.1ram
+la ram es: 2.1ram
+la ram es: 3.1ram
+la ram es: 4.1ram
+la ram es: 2.1ram
+la ram es: 3.1ram
+la ram es: 4.1ram
+la ram es: 2.1ram
+la ram es: 3.1ram
+la ram es: 4.1ram
+la ram es: 2.1ram
+la ram es: 3.1ram
+la ram es: 4.1ram
+la ram es: 2.1ram
+la ram es: 3.1ram
+la ram es: 4.1ram
+la ram es: 2.1ram
+la ram es: 3.1ram
+la ram es: 4.1ram
+la ram es: 2.1ram
+la ram es: 3.1ram
+la ram es: 4.1ram
+la ram es: 2.1ram
+la ram es: 3.1ram
+la ram es: 4.1ram
+la ram es: 2.1ram
+la ram es: 3.1ram
+la ram es: 4.1ram
+la ram es: 2.1ram
+la ram es: 3.1ram
+la ram es: 4.1ram
+la ram es: 2.1ram
+la ram es: 3.1ram
+la ram es: 4.1ram
+la ram es: 2.1ram
+la ram es: 3.1ram
+la ram es: 4.1ram
+la ram es: 2.1ram
+la ram es: 3.1ram
+la ram es: 4.1ram
+la ram es: 2.1ram
+la ram es: 3.1ram
+la ram es: 4.1ram
+la ram es: 2.1ram
+la ram es: 3.1ram
+la ram es: 4.1ram
+la ram es: 2.1ram
+la ram es: 3.1ram
+la ram es: 4.1ram
+la ram es: 2.1ram
+la ram es: 3.1ram
+la ram es: 4.1ram
+la ram es: 2.1ram
+la ram es: 3.1ram
+la ram es: 4.1ram
+la ram es: 2.1ram
+la ram es: 3.1ram
+la ram es: 4.1ram
+la ram es: 2.1ram
+la ram es: 3.1ram
+la ram es: 4.1ram
+la ram es: 2.1ram
+la ram es: 3.1ram
+la ram es: 4.1ram
+la ram es: 2.1ram
+la ram es: 3.1ram
+la ram es: 4.1ram
+la ram es: 2.1ram
+la ram es: 3.1ram
+la ram es: 4.1ram
+la ram es: 2.1ram
+la ram es: 3.1ram
+la ram es: 4.1ram
+la ram es: 2.1ram
+la ram es: 3.1ram
+la ram es: 4.1ram
+la ram es: 2.1ram
+la ram es: 3.1ram
+la ram es: 4.1ram
+la ram es: 2.1ram
+la ram es: 3.1ram
+la ram es: 4.1ram
+la ram es: 2.1ram
+la ram es: 3.1ram
+la ram es: 4.1ram
+la ram es: 2.1ram
+la ram es: 3.1ram
+la ram es: 4.1ram
+la ram es: 2.1ram
+la ram es: 3.1ram
+la ram es: 4.1ram
+la ram es: 2.1ram
+la ram es: 3.1ram
+la ram es: 4.1ram
+la ram es: 2.1ram
+la ram es: 3.1ram
+la ram es: 4.1ram
+la ram es: 2.1ram
+la ram es: 3.1ram
+la ram es: 4.1ram
+la ram es: 2.1ram
+la ram es: 3.1ram
+la ram es: 4.1ram
+la ram es: 2.1ram
+la ram es: 3.1ram
+la ram es: 4.1ram
+la ram es: 2.1ram
+la ram es: 3.1ram
+la ram es: 4.1ram
+la ram es: 2.1ram
+la ram es: 3.1ram
+la ram es: 4.1ram
+la ram es: 2.1ram
+la ram es: 3.1ram
+la ram es: 4.1ram
+la ram es: 2.1ram
+la ram es: 3.1ram
+la ram es: 4.1ram
+la ram es: 2.1ram
+la ram es: 3.1ram
+la ram es: 4.1ram
+la ram es: 2.1ram
+la ram es: 3.1ram
+la ram es: 4.1ram
+la ram es: 2.1ram
+la ram es: 3.1ram
+la ram es: 4.1ram
+la ram es: 2.1ram
+la ram es: 3.1ram
+la ram es: 4.1ram
+la ram es: 2.1ram
+la ram es: 3.1ram
+la ram es: 4.1ram
+la ram es: 2.1ram
+la ram es: 3.1ram
+la ram es: 4.1ram
+la ram es: 2.1ram
+la ram es: 3.1ram
+la ram es: 4.1ram
+la ram es: 2.1ram
+la ram es: 3.1ram
+la ram es: 4.1ram
+la ram es: 2.1ram
+la ram es: 3.1ram
+la ram es: 4.1ram
+la ram es: 2.1ram
+la ram es: 3.1ram
+la ram es: 4.1ram
+la ram es: 2.1ram
+la ram es: 3.1ram
+la ram es: 4.1ram
+la ram es: 2.1ram
+la ram es: 3.1ram
+la ram es: 4.1ram
+la ram es: 2.1ram
+la ram es: 3.1ram
+la ram es: 4.1ram
+la ram es: 2.1ram
+la ram es: 3.1ram
+la ram es: 4.1ram
+la ram es: 2.1ram
+la ram es: 3.1ram
+la ram es: 4.1ram
+la ram es: 2.1ram
+la ram es: 3.1ram
+la ram es: 4.1ram
+la ram es: 2.1ram
+la ram es: 3.1ram
+la ram es: 4.1ram
+la ram es: 2.1ram
+la ram es: 3.1ram
+la ram es: 4.1ram
+la ram es: 2.1ram
+la ram es: 3.1ram
+la ram es: 4.1ram
+la ram es: 2.1ram
+la ram es: 3.1ram
+la ram es: 4.1ram
+la ram es: 2.1ram
+la ram es: 3.1ram
+la ram es: 4.1ram
+la ram es: 2.1ram
+la ram es: 3.1ram
+la ram es: 4.1ram
+la ram es: 2.1ram
+la ram es: 3.1ram
+la ram es: 4.1ram
+la ram es: 2.1ram
+la ram es: 3.1ram
+la ram es: 4.1ram
+la ram es: 2.1ram
+la ram es: 3.1ram
+la ram es: 4.1ram
+la ram es: 2.1ram
+la ram es: 3.1ram
+la ram es: 4.1ram
+la ram es: 2.1ram
+la ram es: 3.1ram
+la ram es: 4.1ram
+la ram es: 2.1ram
+la ram es: 3.1ram
+la ram es: 4.1ram
+la ram es: 2.1ram
+la ram es: 3.1ram
+la ram es: 4.1ram
+la ram es: 2.1ram
+la ram es: 3.1ram
+la ram es: 4.1ram
+la ram es: 2.1ram
+la ram es: 3.1ram
+la ram es: 4.1ram
+la ram es: 2.1ram
+la ram es: 3.1ram
+la ram es: 4.1ram
+la ram es: 2.1ram
+la ram es: 3.1ram
+la ram es: 4.1ram
+la ram es: 2.1ram
+la ram es: 3.1ram
+la ram es: 4.1ram
+la ram es: 2.1ram
+la ram es: 3.1ram
+la ram es: 4.1ram
+la ram es: 2.1ram
+la ram es: 3.1ram
+la ram es: 4.1ram
+la ram es: 2.1ram
+la ram es: 3.1ram
+la ram es: 4.1ram
+la ram es: 2.1ram
+la ram es: 3.1ram
+la ram es: 4.1ram
+la ram es: 2.1ram
+la ram es: 3.1ram
+la ram es: 4.1ram
+la ram es: 2.1ram
+la ram es: 3.1ram
+la ram es: 4.1ram
+la ram es: 2.1ram
+la ram es: 3.1ram
+la ram es: 4.1ram
+la ram es: 2.1ram
+la ram es: 3.1ram
+la ram es: 4.1ram
+la ram es: 2.1ram
+la ram es: 3.1ram
+la ram es: 4.1ram
+la ram es: 2.1ram
+la ram es: 3.1ram
+la ram es: 4.1ram
+la ram es: 2.1ram
+la ram es: 3.1ram
+la ram es: 4.1ram
+la ram es: 2.1ram
+la ram es: 3.1ram
+la ram es: 4.1ram
+la ram es: 2.1ram
+la ram es: 3.1ram
+la ram es: 4.1ram
+la ram es: 2.1ram
+la ram es: 3.1ram
+la ram es: 4.1ram
+la ram es: 2.1ram
+la ram es: 3.1ram
+la ram es: 4.1ram
+la ram es: 2.1ram
+la ram es: 3.1ram
+la ram es: 4.1ram
+la ram es: 2.1ram
+la ram es: 3.1ram
+la ram es: 4.1ram
+la ram es: 2.1ram
+la ram es: 3.1ram
+la ram es: 4.1ram
+la ram es: 2.1ram
+la ram es: 3.1ram
+la ram es: 4.1ram
+la ram es: 2.1ram
+la ram es: 3.1ram
+la ram es: 4.1ram
+la ram es: 2.1ram
+la ram es: 3.1ram
+la ram es: 4.1ram
+la ram es: 2.1ram
+la ram es: 3.1ram
+la ram es: 4.1ram
+la ram es: 2.1ram
+la ram es: 3.1ram
+la ram es: 4.1ram
+la ram es: 2.1ram
+la ram es: 3.1ram
+la ram es: 4.1ram
+la ram es: 2.1ram
+la ram es: 3.1ram
+la ram es: 4.1ram
+la ram es: 2.1ram
+la ram es: 3.1ram
+la ram es: 4.1ram
+la ram es: 2.1ram
+la ram es: 3.1ram
+la ram es: 4.1ram
+la ram es: 2.1ram
+la ram es: 3.1ram
+la ram es: 4.1ram
+la ram es: 2.1ram
+la ram es: 3.1ram
+la ram es: 4.1ram
+la ram es: 2.1ram
+la ram es: 3.1ram
+la ram es: 4.1ram
+la ram es: 2.1ram
+la ram es: 3.1ram
+la ram es: 4.1ram
+la ram es: 2.1ram
+la ram es: 3.1ram
+la ram es: 4.1ram
+la ram es: 2.1ram
+la ram es: 3.1ram
+la ram es: 4.1ram
+la ram es: 2.1ram
+la ram es: 3.1ram
+la ram es: 4.1ram
+la ram es: 2.1ram
+la ram es: 3.1ram
+la ram es: 4.1ram
+la ram es: 2.1ram
+la ram es: 3.1ram
+la ram es: 4.1ram
+la ram es: 2.1ram
+la ram es: 3.1ram
+la ram es: 4.1ram
+la ram es: 2.1ram
+la ram es: 3.1ram
+la ram es: 4.1ram
+la ram es: 2.1ram
+la ram es: 3.1ram
+la ram es: 4.1ram
+la ram es: 2.1ram
+la ram es: 3.1ram
+la ram es: 4.1ram
+la ram es: 2.1ram
+la ram es: 3.1ram
+la ram es: 4.1ram
+la ram es: 2.1ram
+la ram es: 3.1ram
+la ram es: 4.1ram
+la ram es: 2.1ram
+la ram es: 3.1ram
+la ram es: 4.1ram
+la ram es: 2.1ram
+la ram es: 3.1ram
+la ram es: 4.1ram
+la ram es: 2.1ram
+la ram es: 3.1ram
+la ram es: 4.1ram
+la ram es: 2.1ram
+la ram es: 3.1ram
+la ram es: 4.1ram
+la ram es: 2.1ram
+la ram es: 3.1ram
+la ram es: 4.1ram
+la ram es: 2.1ram
+la ram es: 3.1ram
+la ram es: 4.1ram
+la ram es: 2.1ram
+la ram es: 3.1ram
+la ram es: 4.1ram
+la ram es: 2.1ram
+la ram es: 3.1ram
+la ram es: 4.1ram
+la ram es: 2.1ram
+la ram es: 3.1ram
+la ram es: 4.1ram
+la ram es: 2.1ram
+la ram es: 3.1ram
+la ram es: 4.1ram
+la ram es: 2.1ram
+la ram es: 3.1ram
+la ram es: 4.1ram
+la ram es: 2.1ram
+la ram es: 3.1ram
+la ram es: 4.1ram
+la ram es: 2.1ram
+la ram es: 3.1ram
+la ram es: 4.1ram
+la ram es: 2.1ram
+la ram es: 3.1ram
+la ram es: 4.1ram
+la ram es: 2.1ram
+la ram es: 3.1ram
+la ram es: 4.1ram
+la ram es: 2.1ram
+la ram es: 3.1ram
+la ram es: 4.1ram
+la ram es: 2.1ram
+la ram es: 3.1ram
+la ram es: 4.1ram
+la ram es: 2.1ram
+la ram es: 3.1ram
+la ram es: 4.1ram
+la ram es: 2.1ram
+la ram es: 3.1ram
+la ram es: 4.1ram
+la ram es: 2.1ram
+la ram es: 3.1ram
+la ram es: 4.1ram
+la ram es: 2.1ram
+la ram es: 3.1ram
+la ram es: 4.1ram
+la ram es: 2.1ram
+la ram es: 3.1ram
+la ram es: 4.1ram
+la ram es: 2.1ram
+la ram es: 3.1ram
+la ram es: 4.1ram
+la ram es: 2.1ram
+la ram es: 3.1ram
+la ram es: 4.1ram
+la ram es: 2.1ram
+la ram es: 3.1ram
+la ram es: 4.1ram
+la ram es: 2.1ram
+la ram es: 3.1ram
+la ram es: 4.1ram
+la ram es: 2.1ram
+la ram es: 3.1ram
+la ram es: 4.1ram
+la ram es: 2.1ram
+la ram es: 3.1ram
+la ram es: 4.1ram
+Fecha y hora del evento: mié 24 jun 2020 18:15:01 UTC
+MEMORIA RAM
+              total        used        free      shared  buff/cache   available
+Mem:          981Mi       471Mi        92Mi       0,0Ki       417Mi       362Mi
+Swap:         1,9Gi       0,0Ki       1,9Gi
+Fecha y hora del evento: mié 24 jun 2020 18:16:01 UTC
+MEMORIA RAM
+              total        used        free      shared  buff/cache   available
+Mem:          981Mi       470Mi        93Mi       0,0Ki       417Mi       362Mi
+Swap:         1,9Gi       0,0Ki       1,9Gi
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             Fecha y hora del evento: mié 24 jun 2020 18:23:02 UTC
+MEMORIA RAM
+              total        used        free      shared  buff/cache   available
+Mem:          981Mi       465Mi        96Mi       0,0Ki       418Mi       367Mi
+Swap:         1,9Gi       0,0Ki       1,9Gi
+Fecha y hora del evento: mié 24 jun 2020 18:24:01 UTC
+MEMORIA RAM
+              total        used        free      shared  buff/cache   available
+Mem:          981Mi       465Mi        96Mi       0,0Ki       418Mi       367Mi
+Swap:         1,9Gi       0,0Ki       1,9Gi
+Fecha y hora del evento: mié 24 jun 2020 18:25:02 UTC
+MEMORIA RAM
+              total        used        free      shared  buff/cache   available
+Mem:          981Mi       465Mi        96Mi       0,0Ki       418Mi       367Mi
+Swap:         1,9Gi       0,0Ki       1,9Gi
+Fecha y hora del evento: mié 24 jun 2020 18:26:01 UTC
+MEMORIA RAM
+              total        used        free      shared  buff/cache   available
+Mem:          981Mi       465Mi        96Mi       0,0Ki       419Mi       367Mi
+Swap:         1,9Gi       0,0Ki       1,9Gi
+Fecha y hora del evento: mié 24 jun 2020 18:27:01 UTC
+MEMORIA RAM
+              total        used        free      shared  buff/cache   available
+Mem:          981Mi       465Mi        96Mi       0,0Ki       419Mi       368Mi
+Swap:         1,9Gi       0,0Ki       1,9Gi
+Fecha y hora del evento: mié 24 jun 2020 18:28:01 UTC
+MEMORIA RAM
+              total        used        free      shared  buff/cache   available
+Mem:          981Mi       463Mi        98Mi       0,0Ki       419Mi       369Mi
+Swap:         1,9Gi       0,0Ki       1,9Gi
+Fecha y hora del evento: mié 24 jun 2020 18:29:01 UTC
+MEMORIA RAM
+              total        used        free      shared  buff/cache   available
+Mem:          981Mi       463Mi        98Mi       0,0Ki       419Mi       369Mi
+Swap:         1,9Gi       0,0Ki       1,9Gi
+Fecha y hora del evento: mié 24 jun 2020 18:30:01 UTC
+MEMORIA RAM
+              total        used        free      shared  buff/cache   available
+Mem:          981Mi       463Mi        98Mi       0,0Ki       419Mi       369Mi
+Swap:         1,9Gi       0,0Ki       1,9Gi
+Fecha y hora del evento: mié 24 jun 2020 18:31:01 UTC
+MEMORIA RAM
+              total        used        free      shared  buff/cache   available
+Mem:          981Mi       461Mi       100Mi       0,0Ki       419Mi       371Mi
+Swap:         1,9Gi       0,0Ki       1,9Gi
+Fecha y hora del evento: mié 24 jun 2020 18:32:01 UTC
+MEMORIA RAM
+              total        used        free      shared  buff/cache   available
+Mem:          981Mi       461Mi       100Mi       0,0Ki       419Mi       372Mi
+Swap:         1,9Gi       0,0Ki       1,9Gi
+Fecha y hora del evento: mié 24 jun 2020 18:33:01 UTC
+MEMORIA RAM
+              total        used        free      shared  buff/cache   available
+Mem:          981Mi       461Mi       100Mi       0,0Ki       419Mi       371Mi
+Swap:         1,9Gi       0,0Ki       1,9Gi
+Fecha y hora del evento: mié 24 jun 2020 18:34:01 UTC
+MEMORIA RAM
+              total        used        free      shared  buff/cache   available
+Mem:          981Mi       461Mi        99Mi       0,0Ki       419Mi       371Mi
+Swap:         1,9Gi       0,0Ki       1,9Gi
+Fecha y hora del evento: mié 24 jun 2020 18:35:01 UTC
+MEMORIA RAM
+              total        used        free      shared  buff/cache   available
+Mem:          981Mi       461Mi        99Mi       0,0Ki       419Mi       371Mi
+Swap:         1,9Gi       0,0Ki       1,9Gi
+Fecha y hora del evento: mié 24 jun 2020 18:35:01 UTC
+MEMORIA RAM
+              total        used        free      shared  buff/cache   available
+Mem:          981Mi       461Mi        99Mi       0,0Ki       419Mi       371Mi
+Swap:         1,9Gi       0,0Ki       1,9Gi
+Fecha y hora del evento: mié 24 jun 2020 18:35:01 UTC
+MEMORIA RAM
+              total        used        free      shared  buff/cache   available
+Mem:          981Mi       461Mi        99Mi       0,0Ki       419Mi       371Mi
+Swap:         1,9Gi       0,0Ki       1,9Gi
+Fecha y hora del evento: mié 24 jun 2020 18:38:01 UTC
+MEMORIA RAM
+              total        used        free      shared  buff/cache   available
+Mem:          981Mi       461Mi        99Mi       0,0Ki       419Mi       371Mi
+Swap:         1,9Gi       0,0Ki       1,9Gi
+Fecha y hora del evento: mié 24 jun 2020 18:39:01 UTC
+MEMORIA RAM
+              total        used        free      shared  buff/cache   available
+Mem:          981Mi       462Mi        99Mi       0,0Ki       419Mi       371Mi
+Swap:         1,9Gi       0,0Ki       1,9Gi
+Fecha y hora del evento: mié 24 jun 2020 18:40:01 UTC
+MEMORIA RAM
+              total        used        free      shared  buff/cache   available
+Mem:          981Mi       462Mi        99Mi       0,0Ki       419Mi       371Mi
+Swap:         1,9Gi       0,0Ki       1,9Gi
+Fecha y hora del evento: mié 24 jun 2020 18:41:01 UTC
+MEMORIA RAM
+              total        used        free      shared  buff/cache   available
+Mem:          981Mi       461Mi        99Mi       0,0Ki       419Mi       371Mi
+Swap:         1,9Gi       0,0Ki       1,9Gi
+Fecha y hora del evento: mié 24 jun 2020 18:41:01 UTC
+MEMORIA RAM
+              total        used        free      shared  buff/cache   available
+Mem:          981Mi       461Mi        99Mi       0,0Ki       419Mi       371Mi
+Swap:         1,9Gi       0,0Ki       1,9Gi
+Fecha y hora del evento: mié 24 jun 2020 18:41:01 UTC
+MEMORIA RAM
+              total        used        free      shared  buff/cache   available
+Mem:          981Mi       461Mi        99Mi       0,0Ki       419Mi       371Mi
+Swap:         1,9Gi       0,0Ki       1,9Gi
+Fecha y hora del evento: mié 24 jun 2020 18:41:01 UTC
+MEMORIA RAM
+              total        used        free      shared  buff/cache   available
+Mem:          981Mi       461Mi        99Mi       0,0Ki       419Mi       371Mi
+Swap:         1,9Gi       0,0Ki       1,9Gi
+Fecha y hora del evento: mié 24 jun 2020 18:41:01 UTC
+MEMORIA RAM
+              total        used        free      shared  buff/cache   available
+Mem:          981Mi       461Mi        99Mi       0,0Ki       419Mi       371Mi
+Swap:         1,9Gi       0,0Ki       1,9Gi
+Fecha y hora del evento: mié 24 jun 2020 18:41:01 UTC
+MEMORIA RAM
+              total        used        free      shared  buff/cache   available
+Mem:          981Mi       461Mi        99Mi       0,0Ki       419Mi       371Mi
+Swap:         1,9Gi       0,0Ki       1,9Gi
+Fecha y hora del evento: mié 24 jun 2020 18:41:01 UTC
+MEMORIA RAM
+              total        used        free      shared  buff/cache   available
+Mem:          981Mi       461Mi        99Mi       0,0Ki       419Mi       371Mi
+Swap:         1,9Gi       0,0Ki       1,9Gi
+Fecha y hora del evento: mié 24 jun 2020 18:41:01 UTC
+MEMORIA RAM
+              total        used        free      shared  buff/cache   available
+Mem:          981Mi       461Mi        99Mi       0,0Ki       419Mi       371Mi
+Swap:         1,9Gi       0,0Ki       1,9Gi
+Fecha y hora del evento: mié 24 jun 2020 18:42:01 UTC
+MEMORIA RAM
+              total        used        free      shared  buff/cache   available
+Mem:          981Mi       464Mi        96Mi       0,0Ki       420Mi       368Mi
+Swap:         1,9Gi       0,0Ki       1,9Gi
+Fecha y hora del evento: mié 24 jun 2020 18:42:01 UTC
+MEMORIA RAM
+              total        used        free      shared  buff/cache   available
+Mem:          981Mi       464Mi        96Mi       0,0Ki       420Mi       368Mi
+Swap:         1,9Gi       0,0Ki       1,9Gi
+Fecha y hora del evento: mié 24 jun 2020 18:42:01 UTC
+MEMORIA RAM
+              total        used        free      shared  buff/cache   available
+Mem:          981Mi       464Mi        96Mi       0,0Ki       420Mi       368Mi
+Swap:         1,9Gi       0,0Ki       1,9Gi
+Fecha y hora del evento: mié 24 jun 2020 18:45:01 UTC
+MEMORIA RAM
+              total        used        free      shared  buff/cache   available
+Mem:          981Mi       464Mi        95Mi       0,0Ki       420Mi       368Mi
+Swap:         1,9Gi       0,0Ki       1,9Gi
+Fecha y hora del evento: mié 24 jun 2020 18:46:01 UTC
+MEMORIA RAM
+              total        used        free      shared  buff/cache   available
+Mem:          981Mi       464Mi        96Mi       0,0Ki       420Mi       369Mi
+Swap:         1,9Gi       0,0Ki       1,9Gi
